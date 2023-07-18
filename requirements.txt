@@ -1,0 +1,5 @@
+peft
+trl
+datasets
+bitsandbytes
+einops

@@ -1,0 +1,814 @@
+[
+  {
+    "prompt": "I want to supply 0.1 ETH and borrow GHO on Gnosis.",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "GHO",
+      "amount": "0.1",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "I would like to deposit 1000 DAI and borrow USDC on Taiko.",
+    "completion": {
+      "action": "borrow",
+      "token1": "DAI",
+      "token2": "USDC",
+      "amount": "1000",
+      "chain": "Taiko"
+    }
+  },
+
+  {
+    "prompt": "Can you guide me through the process of supplying 50 wBTC and borrowing ETH on Optimism?",
+    "completion": {
+      "action": "borrow",
+      "token1": "wBTC",
+      "token2": "ETH",
+      "amount": "50",
+      "chain": "Optimism"
+    }
+  },
+
+  {
+    "prompt": "I want to deposit 0.2 ETH as collateral and borrow DAI on Gnosis.",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "DAI",
+      "amount": "0.2",
+      "chain": "Gnosis"
+    }
+  },
+
+  {
+    "prompt": "Please assist me in supplying 500 USDC and borrowing wBTC on Chiado.",
+    "completion": {
+      "action": "borrow",
+      "token1": "USDC",
+      "token2": "wBTC",
+      "amount": "500",
+      "chain": "Chiado"
+    }
+  },
+
+  {
+    "prompt": "Can you help me deposit 100 LINK and borrow UNI on Ethereum?",
+    "completion": {
+      "action": "borrow",
+      "token1": "LINK",
+      "token2": "UNI",
+      "amount": "100",
+      "chain": "Ethereum"
+    }
+  },
+  {
+    "prompt": "I'm looking to deposit 0.5 ETH and borrow USDT on Gnosis.",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "USDT",
+      "amount": "0.5",
+      "chain": "Gnosis"
+    }
+  },
+
+  {
+    "prompt": "Can you guide me through supplying 1000 DAI and borrowing wBTC on Taiko?",
+    "completion": {
+      "action": "borrow",
+      "token1": "DAI",
+      "token2": "wBTC",
+      "amount": "1000",
+      "chain": "Taiko"
+    }
+  },
+
+  {
+    "prompt": "I want to deposit 0.2 ETH as collateral and borrow LINK on Optimism.",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "LINK",
+      "amount": "0.2",
+      "chain": "Optimism"
+    }
+  },
+
+  {
+    "prompt": "Please assist me in supplying 500 USDC and borrowing DAI on Chiado.",
+    "completion": {
+      "action": "borrow",
+      "token1": "USDC",
+      "token2": "DAI",
+      "amount": "500",
+      "chain": "Chiado"
+    }
+  },
+
+  {
+    "prompt": "I'm interested in depositing 1000 GNO and borrowing ETH on Gnosis.",
+    "completion": {
+      "action": "borrow",
+      "token1": "GNO",
+      "token2": "ETH",
+      "amount": "1000",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "I want to deposit 0.3 ETH as collateral and borrow wBTC on Gnosis.",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "wBTC",
+      "amount": "0.3",
+      "chain": "Gnosis"
+    }
+  },
+
+  {
+    "prompt": "Please guide me through supplying 1000 DAI and borrowing LINK on Taiko.",
+    "completion": {
+      "action": "borrow",
+      "token1": "DAI",
+      "token2": "LINK",
+      "amount": "1000",
+      "chain": "Taiko"
+    }
+  },
+
+  {
+    "prompt": "I'm looking to deposit 0.5 ETH as collateral and borrow USDT on Gnosis.",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "USDT",
+      "amount": "0.5",
+      "chain": "Gnosis"
+    }
+  },
+
+  {
+    "prompt": "Can you help me with the process of supplying 500 USDC and borrowing DAI on Chiado?",
+    "completion": {
+      "action": "borrow",
+      "token1": "USDC",
+      "token2": "DAI",
+      "amount": "500",
+      "chain": "Chiado"
+    }
+  },
+
+  {
+    "prompt": "I'm interested in depositing 1000 GNO as collateral and borrowing ETH on Gnosis.",
+    "completion": {
+      "action": "borrow",
+      "token1": "GNO",
+      "token2": "ETH",
+      "amount": "1000",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "Can you guide me through supplying 0.2 ETH and borrowing wBTC on Taiko?",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "wBTC",
+      "amount": "0.2",
+      "chain": "Taiko"
+    }
+  },
+  {
+    "prompt": "I'm considering depositing 5000 DAI and borrowing USDC on Gnosis. Can you provide me with the necessary steps?",
+    "completion": {
+      "action": "borrow",
+      "token1": "DAI",
+      "token2": "USDC",
+      "amount": "5000",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "I would like to supply 0.1 ETH and borrow LINK on Optimism. Please assist me in completing the transaction.",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "LINK",
+      "amount": "0.1",
+      "chain": "Optimism"
+    }
+  },
+  {
+    "prompt": "Can you help me with borrowing 1000 USDT by supplying 500 DAI on Chiado?",
+    "completion": {
+      "action": "borrow",
+      "token1": "DAI",
+      "token2": "USDT",
+      "amount": "1000",
+      "chain": "Chiado"
+    }
+  },
+  {
+    "prompt": "I'm looking to deposit 200 ETH as collateral and borrow wBTC on Gnosis. What are the next steps?",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "wBTC",
+      "amount": "200",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "I want to deposit 0.5 ETH and borrow USDT on Taiko. Can you guide me through the process?",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "USDT",
+      "amount": "0.5",
+      "chain": "Taiko"
+    }
+  },
+  {
+    "prompt": "Can you assist me in supplying 1000 DAI and borrowing wBTC on Gnosis?",
+    "completion": {
+      "action": "borrow",
+      "token1": "DAI",
+      "token2": "wBTC",
+      "amount": "1000",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "I'm interested in depositing 0.2 ETH as collateral and borrowing LINK on Chiado.",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "LINK",
+      "amount": "0.2",
+      "chain": "Chiado"
+    }
+  },
+  {
+    "prompt": "Please guide me through supplying 500 USDC and borrowing DAI on Optimism.",
+    "completion": {
+      "action": "borrow",
+      "token1": "USDC",
+      "token2": "DAI",
+      "amount": "500",
+      "chain": "Optimism"
+    }
+  },
+  {
+    "prompt": "I want to deposit 1000 GNO and borrow ETH on Taiko. What are the necessary steps?",
+    "completion": {
+      "action": "borrow",
+      "token1": "GNO",
+      "token2": "ETH",
+      "amount": "1000",
+      "chain": "Taiko"
+    }
+  },
+  {
+    "prompt": "I'd like to deposit 0.3 ETH and borrow DAI on Chiado. Can you assist me with the process?",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "DAI",
+      "amount": "0.3",
+      "chain": "Chiado"
+    }
+  },
+  {
+    "prompt": "How can I supply 2000 USDC and borrow wBTC on Gnosis?",
+    "completion": {
+      "action": "borrow",
+      "token1": "USDC",
+      "token2": "wBTC",
+      "amount": "2000",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "I'm considering depositing 0.1 ETH as collateral and borrowing LINK on Optimism.",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "LINK",
+      "amount": "0.1",
+      "chain": "Optimism"
+    }
+  },
+  {
+    "prompt": "Please help me supply 500 USDT and borrow DAI on Taiko.",
+    "completion": {
+      "action": "borrow",
+      "token1": "USDT",
+      "token2": "DAI",
+      "amount": "500",
+      "chain": "Taiko"
+    }
+  },
+  {
+    "prompt": "I'm interested in depositing 1000 LINK and borrowing UNI on Gnosis. Can you guide me through the process?",
+    "completion": {
+      "action": "borrow",
+      "token1": "LINK",
+      "token2": "UNI",
+      "amount": "1000",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "I want to supply 0.05 ETH and borrow DAI on Chiado. How can I proceed?",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "DAI",
+      "amount": "0.05",
+      "chain": "Chiado"
+    }
+  },
+  {
+    "prompt": "Can you help me with borrowing 1000 USDC by supplying ETH on Taiko?",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "USDC",
+      "amount": "1000",
+      "chain": "Taiko"
+    }
+  },
+  {
+    "prompt": "I'm interested in borrowing 50 wBTC on Optimism. What's the process for this?",
+    "completion": {
+      "action": "borrow",
+      "token1": "wBTC",
+      "token2": "ETH",
+      "amount": "50",
+      "chain": "Optimism"
+    }
+  },
+  {
+    "prompt": "I'd like to borrow 0.2 ETH by supplying DAI on Gnosis. Can you guide me through it?",
+    "completion": {
+      "action": "borrow",
+      "token1": "DAI",
+      "token2": "ETH",
+      "amount": "0.2",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "What's the process for borrowing 500 USDC by supplying wBTC on Chiado?",
+    "completion": {
+      "action": "borrow",
+      "token1": "wBTC",
+      "token2": "USDC",
+      "amount": "500",
+      "chain": "Chiado"
+    }
+  },
+  {
+    "prompt": "I'm looking to borrow GNO by supplying 0.1 ETH on Gnosis. How can I proceed?",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "GNO",
+      "amount": "0.1",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "Borrowing USDT by supplying 1000 DAI on Taiko - what are the steps involved?",
+    "completion": {
+      "action": "borrow",
+      "token1": "DAI",
+      "token2": "USDT",
+      "amount": "1000",
+      "chain": "Taiko"
+    }
+  },
+  {
+    "prompt": "Can you assist me in borrowing ETH by supplying 50 LINK on Optimism?",
+    "completion": {
+      "action": "borrow",
+      "token1": "LINK",
+      "token2": "ETH",
+      "amount": "50",
+      "chain": "Optimism"
+    }
+  },
+  {
+    "prompt": "I want to borrow DAI by supplying 0.2 ETH on Gnosis. What are the next steps?",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "DAI",
+      "amount": "0.2",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "Please guide me through the process of borrowing wBTC by supplying 500 USDC on Chiado.",
+    "completion": {
+      "action": "borrow",
+      "token1": "USDC",
+      "token2": "wBTC",
+      "amount": "500",
+      "chain": "Chiado"
+    }
+  },
+  {
+    "prompt": "Borrow 0.1 ETH on Gnosis by supplying collateral in GNO. How can I proceed?",
+    "completion": {
+      "action": "borrow",
+      "token1": "GNO",
+      "token2": "ETH",
+      "amount": "0.1",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "I'm interested in borrowing USDC on Taiko by supplying 1000 DAI. What steps should I take?",
+    "completion": {
+      "action": "borrow",
+      "token1": "DAI",
+      "token2": "USDC",
+      "amount": "1000",
+      "chain": "Taiko"
+    }
+  },
+  {
+    "prompt": "Can you guide me through borrowing ETH on Optimism? I'm willing to supply 50 LINK as collateral.",
+    "completion": {
+      "action": "borrow",
+      "token1": "LINK",
+      "token2": "ETH",
+      "amount": "50",
+      "chain": "Optimism"
+    }
+  },
+  {
+    "prompt": "I want to borrow DAI on Gnosis by supplying 0.2 ETH as collateral. How should I proceed?",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "DAI",
+      "amount": "0.2",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "Please assist me in borrowing wBTC on Chiado. I'm willing to supply 500 USDC as collateral.",
+    "completion": {
+      "action": "borrow",
+      "token1": "USDC",
+      "token2": "wBTC",
+      "amount": "500",
+      "chain": "Chiado"
+    }
+  },
+  {
+    "prompt": "Borrow GNO on Gnosis. I have 0.1 ETH to use as collateral. Can you assist me with the borrowing process?",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "GNO",
+      "amount": "0.1",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "I'm interested in borrowing USDC on Taiko. How can I proceed if I'm willing to supply 1000 DAI as collateral?",
+    "completion": {
+      "action": "borrow",
+      "token1": "DAI",
+      "token2": "USDC",
+      "amount": "1000",
+      "chain": "Taiko"
+    }
+  },
+  {
+    "prompt": "Can you guide me through the process of borrowing ETH on Optimism? I'm considering supplying 50 LINK tokens as collateral.",
+    "completion": {
+      "action": "borrow",
+      "token1": "LINK",
+      "token2": "ETH",
+      "amount": "50",
+      "chain": "Optimism"
+    }
+  },
+  {
+    "prompt": "I want to borrow DAI on Gnosis. How should I proceed if I'm willing to supply 0.2 ETH as collateral?",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "DAI",
+      "amount": "0.2",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "Please assist me in borrowing wBTC on Chiado. I have 500 USDC tokens that I can use as collateral. What are the steps to follow?",
+    "completion": {
+      "action": "borrow",
+      "token1": "USDC",
+      "token2": "wBTC",
+      "amount": "500",
+      "chain": "Chiado"
+    }
+  },
+  {
+    "prompt": "Borrowing GNO on Gnosis. Need assistance!",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "GNO",
+      "amount": "0.1",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "Looking to borrow USDC on Taiko. Can you help?",
+    "completion": {
+      "action": "borrow",
+      "token1": "DAI",
+      "token2": "USDC",
+      "amount": "1000",
+      "chain": "Taiko"
+    }
+  },
+  {
+    "prompt": "Guide me through borrowing ETH on Optimism. Have 50 LINK.",
+    "completion": {
+      "action": "borrow",
+      "token1": "LINK",
+      "token2": "ETH",
+      "amount": "50",
+      "chain": "Optimism"
+    }
+  },
+  {
+    "prompt": "Borrowing DAI on Gnosis. Have 0.2 ETH as collateral.",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "DAI",
+      "amount": "0.2",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "Need help with borrowing wBTC on Chiado. Have 500 USDC as collateral.",
+    "completion": {
+      "action": "borrow",
+      "token1": "USDC",
+      "token2": "wBTC",
+      "amount": "500",
+      "chain": "Chiado"
+    }
+  },
+  {
+    "prompt": "Can you guide me through the borrowing process for GHO on Gnosis? I have 0.1 ETH.",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "GHO",
+      "amount": "0.1",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "Borrowing USDC on Taiko with 1000 DAI as collateral. Can you assist?",
+    "completion": {
+      "action": "borrow",
+      "token1": "DAI",
+      "token2": "USDC",
+      "amount": "1000",
+      "chain": "Taiko"
+    }
+  },
+  {
+    "prompt": "Looking to borrow ETH on Optimism. Have 50 wBTC. Any guidance?",
+    "completion": {
+      "action": "borrow",
+      "token1": "wBTC",
+      "token2": "ETH",
+      "amount": "50",
+      "chain": "Optimism"
+    }
+  },
+  {
+    "prompt": "I want to borrow DAI on Gnosis. I can provide 0.2 ETH as collateral. How can I proceed?",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "DAI",
+      "amount": "0.2",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "Please assist me in borrowing wBTC on Chiado. I have 500 USDC to use as collateral.",
+    "completion": {
+      "action": "borrow",
+      "token1": "USDC",
+      "token2": "wBTC",
+      "amount": "500",
+      "chain": "Chiado"
+    }
+  },
+  {
+    "prompt": "I'm interested in borrowing GNO on Gnosis. Can you guide me through the process? I can provide 0.5 ETH as collateral.",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "GNO",
+      "amount": "0.5",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "Looking to borrow USDT on Taiko. Can you help me deposit 1000 DAI as collateral and proceed with the borrowing process?",
+    "completion": {
+      "action": "borrow",
+      "token1": "DAI",
+      "token2": "USDT",
+      "amount": "1000",
+      "chain": "Taiko"
+    }
+  },
+  {
+    "prompt": "I want to borrow LINK on Optimism. I'm ready to provide 0.2 ETH as collateral. Please assist me in completing the borrowing transaction.",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "LINK",
+      "amount": "0.2",
+      "chain": "Optimism"
+    }
+  },
+  {
+    "prompt": "Please guide me through the process of borrowing DAI on Chiado. I'm looking to supply 500 USDC as collateral.",
+    "completion": {
+      "action": "borrow",
+      "token1": "USDC",
+      "token2": "DAI",
+      "amount": "500",
+      "chain": "Chiado"
+    }
+  },
+  {
+    "prompt": "I'm interested in borrowing ETH on Gnosis. Can you assist me with depositing 1000 GNO as collateral?",
+    "completion": {
+      "action": "borrow",
+      "token1": "GNO",
+      "token2": "ETH",
+      "amount": "1000",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "I want to borrow GHO and supply 0.1 ETH on Gnosis.",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "GHO",
+      "amount": "0.1",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "I want to borrow USDC and supply 0.5 ETH on Chiado.",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "USDC",
+      "amount": "0.5",
+      "chain": "Chiado"
+    }
+  },
+  {
+    "prompt": "I want to borrow ETH and supply 0.2 BTC on Optimism.",
+    "completion": {
+      "action": "borrow",
+      "token1": "BTC",
+      "token2": "ETH",
+      "amount": "0.2",
+      "chain": "Optimism"
+    }
+  },
+  {
+    "prompt": "I want to borrow DAI and supply 1000 USDC on Gnosis.",
+    "completion": {
+      "action": "borrow",
+      "token1": "USDC",
+      "token2": "DAI",
+      "amount": "1000",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "I want to borrow wBTC and supply 0.5 ETH on Taiko.",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "wBTC",
+      "amount": "0.5",
+      "chain": "Taiko"
+    }
+  },
+  {
+    "prompt": "I want to borrow UNI and supply 100 LINK on Ethereum.",
+    "completion": {
+      "action": "borrow",
+      "token1": "LINK",
+      "token2": "UNI",
+      "amount": "100",
+      "chain": "Ethereum"
+    }
+  },
+  {
+    "prompt": "I want to borrow USDT and supply 0.2 ETH on Gnosis.",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "USDT",
+      "amount": "0.2",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "I want to borrow wBTC and supply 5000 USDC on Taiko.",
+    "completion": {
+      "action": "borrow",
+      "token1": "USDC",
+      "token2": "wBTC",
+      "amount": "5000",
+      "chain": "Taiko"
+    }
+  },
+  {
+    "prompt": "I want to borrow LINK and supply 0.1 ETH on Optimism.",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "LINK",
+      "amount": "0.1",
+      "chain": "Optimism"
+    }
+  },
+  {
+    "prompt": "I want to borrow DAI and supply 500 USDC on Chiado.",
+    "completion": {
+      "action": "borrow",
+      "token1": "USDC",
+      "token2": "DAI",
+      "amount": "500",
+      "chain": "Chiado"
+    }
+  },
+  {
+    "prompt": "I want to borrow ETH and supply 1000 GNO on Gnosis.",
+    "completion": {
+      "action": "borrow",
+      "token1": "GNO",
+      "token2": "ETH",
+      "amount": "1000",
+      "chain": "Gnosis"
+    }
+  },
+  {
+    "prompt": "I want to borrow USDC and supply 0.2 ETH on Optimism.",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "USDC",
+      "amount": "0.2",
+      "chain": "Optimism"
+    }
+  },
+  {
+    "prompt": "I want to borrow wBTC and supply 1000 DAI on Taiko.",
+    "completion": {
+      "action": "borrow",
+      "token1": "DAI",
+      "token2": "wBTC",
+      "amount": "1000",
+      "chain": "Taiko"
+    }
+  },
+  {
+    "prompt": "I want to borrow UNI and supply 0.5 ETH on Ethereum.",
+    "completion": {
+      "action": "borrow",
+      "token1": "ETH",
+      "token2": "UNI",
+      "amount": "0.5",
+      "chain": "Ethereum"
+    }
+  }
+]

@@ -1,0 +1,708 @@
+[
+    {
+    "prompt": "What is the total supply of LINK on Ethereum?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "LINK",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "Can you provide me with the total supply of LINK on Ethereum?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "LINK",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "What is the total supply of UNI on Ethereum?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "UNI",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "Can you provide the total supply of LINK on Optimism?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "LINK",
+    "chain": "Optimism"
+    }
+    },
+    {
+    "prompt": "I would like to know the total supply of USDC on Chiado.",
+    "completion": {
+    "action": "total_supply",
+    "token1": "USDC",
+    "chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "What is the total supply of DAI on Gnosis?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "DAI",
+    "chain": "Gnosis"
+    }
+    },
+    
+    {
+    "prompt": "Can you provide the total supply of GNO on Ethereum?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "GNO",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "I would like to know the total supply of UNI on Taiko.",
+    "completion": {
+    "action": "total_supply",
+    "token1": "UNI",
+    "chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "How many tokens of DAI are in total supply on Ethereum?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "DAI",
+    "chain": "Ethereum"
+    }
+    },
+    
+    {
+    "prompt": "What is the total supply of USDC on Taiko?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "USDC",
+    "chain": "Taiko"
+    }
+    },
+    
+    {
+    "prompt": "Can you provide me with the current total supply of wBTC on Chiado?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "wBTC",
+    "chain": "Chiado"
+    }
+    },
+    
+    {
+    "prompt": "How many tokens of ETH are in total supply on Gnosis?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "ETH",
+    "chain": "Gnosis"
+    }
+    },
+    
+    {
+    "prompt": "What is the total supply of USDT on Optimism?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "USDT",
+    "chain": "Optimism"
+    }
+    },
+    {
+    "prompt": "What is the total supply of GNO on Ethereum?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "GNO",
+    "chain": "Ethereum"
+    }
+    },
+    
+    {
+    "prompt": "Can you provide me with the total supply of USDT on Chiado?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "USDT",
+    "chain": "Chiado"
+    }
+    },
+    
+    {
+    "prompt": "How many tokens of wBTC are in total supply on Optimism?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "wBTC",
+    "chain": "Optimism"
+    }
+    },
+    
+    {
+    "prompt": "Please give me the current total supply of DAI on Taiko.",
+    "completion": {
+    "action": "total_supply",
+    "token1": "DAI",
+    "chain": "Taiko"
+    }
+    },
+    
+    {
+    "prompt": "What is the total supply of LINK on Gnosis?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "LINK",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "How many tokens of USDC are in total supply on Taiko?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "USDC",
+    "chain": "Taiko"
+    }
+    },
+    
+    {
+    "prompt": "Can you provide me with the current total supply of ETH on Chiado?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "ETH",
+    "chain": "Chiado"
+    }
+    },
+    
+    {
+    "prompt": "What is the total supply of WBTC on Gnosis?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "WBTC",
+    "chain": "Gnosis"
+    }
+    },
+    
+    {
+    "prompt": "Please give me the total supply of DAI on Optimism.",
+    "completion": {
+    "action": "total_supply",
+    "token1": "DAI",
+    "chain": "Optimism"
+    }
+    },
+    
+    {
+    "prompt": "How many tokens of UNI are in total supply on Ethereum?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "UNI",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "I'm curious about the total supply of BTC on the Binance Smart Chain. Can you provide me with that information?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "BTC",
+    "chain": "Binance Smart Chain"
+    }
+    },
+    
+    {
+    "prompt": "What is the total supply of USDT on the Avalanche network?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "USDT",
+    "chain": "Avalanche"
+    }
+    },
+    
+    {
+    "prompt": "Can you tell me the current total supply of ADA on the Cardano blockchain?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "ADA",
+    "chain": "Cardano"
+    }
+    },
+    
+    {
+    "prompt": "I'm interested to know the total supply of XRP on the Ripple network. Could you provide that information?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "XRP",
+    "chain": "Ripple"
+    }
+    },
+    
+    {
+    "prompt": "What is the total supply of DOGE on the Binance Smart Chain?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "DOGE",
+    "chain": "Binance Smart Chain"
+    }
+    },
+    {
+    "prompt": "What is the circulating supply of BTC on Binance Smart Chain?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "BTC",
+    "chain": "Binance Smart Chain"
+    }
+    },
+    
+    {
+    "prompt": "Can you provide me with the total supply of ETH on Avalanche?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "ETH",
+    "chain": "Avalanche"
+    }
+    },
+    
+    {
+    "prompt": "What is the current total supply of USDT on Polygon?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "USDT",
+    "chain": "Polygon"
+    }
+    },
+    
+    {
+    "prompt": "Can you tell me the total supply of BNB on Binance Smart Chain?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "BNB",
+    "chain": "Binance Smart Chain"
+    }
+    },
+    
+    {
+    "prompt": "I'm interested to know the circulating supply of ADA on Avalanche. Could you provide me with that information?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "ADA",
+    "chain": "Avalanche"
+    }
+    },
+    {
+    "prompt": "What is the total supply of XRP on the Stellar network?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "XRP",
+    "chain": "Stellar"
+    }
+    },
+    
+    {
+    "prompt": "Can you provide me with the circulating supply of DOT on the Polkadot network?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "DOT",
+    "chain": "Polkadot"
+    }
+    },
+    
+    {
+    "prompt": "I'm curious about the total supply of LUNA on the Terra network. Could you please share that information?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "LUNA",
+    "chain": "Terra"
+    }
+    },
+    
+    {
+    "prompt": "What is the current total supply of AAVE on the Ethereum network?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "AAVE",
+    "chain": "Ethereum"
+    }
+    },
+    
+    {
+    "prompt": "Can you tell me the total supply of DOGE on the Binance Smart Chain?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "DOGE",
+    "chain": "Binance Smart Chain"
+    }
+    },
+    {
+    "prompt": "I'm interested in knowing the total supply of BTC on the Bitcoin network. Can you provide that information?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "BTC",
+    "chain": "Bitcoin"
+    }
+    },
+    
+    {
+    "prompt": "Please share the total supply of ETH on the Ethereum network.",
+    "completion": {
+    "action": "total_supply",
+    "token1": "ETH",
+    "chain": "Ethereum"
+    }
+    },
+    
+    {
+    "prompt": "What is the current total supply of ADA on the Cardano network?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "ADA",
+    "chain": "Cardano"
+    }
+    },
+    
+    {
+    "prompt": "Can you provide me with the total supply of USDT on the Tron network?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "USDT",
+    "chain": "Tron"
+    }
+    },
+    
+    {
+    "prompt": "I would like to know the total supply of XLM on the Stellar network. Could you please share that information?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "XLM",
+    "chain": "Stellar"
+    }
+    },
+    {
+    "prompt": "What is the total supply of XRP on the Ripple network?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "XRP",
+    "chain": "Ripple"
+    }
+    },
+    
+    {
+    "prompt": "Can you provide me with the total supply of LTC on the Litecoin network?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "LTC",
+    "chain": "Litecoin"
+    }
+    },
+    
+    {
+    "prompt": "I'm interested to know the total supply of BNB on the Binance Smart Chain. Could you please share that information?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "BNB",
+    "chain": "Binance Smart Chain"
+    }
+    },
+    
+    {
+    "prompt": "Please provide the total supply of DOT on the Polkadot network.",
+    "completion": {
+    "action": "total_supply",
+    "token1": "DOT",
+    "chain": "Polkadot"
+    }
+    },
+    
+    {
+    "prompt": "I would like to know the total supply of ADA on the Cardano blockchain. Can you assist me with that?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "ADA",
+    "chain": "Cardano"
+    }
+    },
+    {
+    "prompt": "What is the current total supply of ETH on the Ethereum network?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "ETH",
+    "chain": "Ethereum"
+    }
+    },
+    
+    {
+    "prompt": "Can you provide me with the total supply of XMR on the Monero blockchain?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "XMR",
+    "chain": "Monero"
+    }
+    },
+    
+    {
+    "prompt": "I'm interested to know the total supply of BCH on the Bitcoin Cash network. Could you please share that information?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "BCH",
+    "chain": "Bitcoin Cash"
+    }
+    },
+    
+    {
+    "prompt": "Please provide the current total supply of EOS on the EOSIO blockchain.",
+    "completion": {
+    "action": "total_supply",
+    "token1": "EOS",
+    "chain": "EOSIO"
+    }
+    },
+    
+    {
+    "prompt": "I would like to know the total supply of XLM on the Stellar network. Can you assist me with that?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "XLM",
+    "chain": "Stellar"
+    }
+    },
+    {
+    "prompt": "What is the current total supply of ADA on the Cardano blockchain?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "ADA",
+    "chain": "Cardano"
+    }
+    },
+    
+    {
+    "prompt": "I'm curious about the total supply of DOT on the Polkadot network. Could you please share that information?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "DOT",
+    "chain": "Polkadot"
+    }
+    },
+    
+    {
+    "prompt": "Please provide the current total supply of BNB on the Binance Smart Chain.",
+    "completion": {
+    "action": "total_supply",
+    "token1": "BNB",
+    "chain": "Binance Smart Chain"
+    }
+    },
+    
+    {
+    "prompt": "I would like to know the total supply of LTC on the Litecoin blockchain. Can you assist me with that?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "LTC",
+    "chain": "Litecoin"
+    }
+    },
+    {
+    "prompt": "How many tokens of XRP are in circulation on the Ripple network?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "XRP",
+    "chain": "Ripple"
+    }
+    },
+    
+    {
+    "prompt": "What is the total supply of BCH on the Bitcoin Cash blockchain?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "BCH",
+    "chain": "Bitcoin Cash"
+    }
+    },
+    
+    {
+    "prompt": "Can you provide me with the total supply of DOGE on the Dogecoin network?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "DOGE",
+    "chain": "Dogecoin"
+    }
+    },
+    
+    {
+    "prompt": "I'm interested in knowing the current total supply of XTZ on the Tezos blockchain. Could you please share that information?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "XTZ",
+    "chain": "Tezos"
+    }
+    },
+    
+    {
+    "prompt": "Please provide the total supply of ADA on the Cardano network.",
+    "completion": {
+    "action": "total_supply",
+    "token1": "ADA",
+    "chain": "Cardano"
+    }
+    },
+    {
+    "prompt": "How many tokens of USDT are currently in circulation on the Ethereum network?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "USDT",
+    "chain": "Ethereum"
+    }
+    },
+    
+    {
+    "prompt": "Can you provide me with the total supply of BTC on the Bitcoin blockchain?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "BTC",
+    "chain": "Bitcoin"
+    }
+    },
+    
+    {
+    "prompt": "I'm curious about the total supply of XLM on the Stellar network. Could you please provide that information?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "XLM",
+    "chain": "Stellar"
+    }
+    },
+    
+    {
+    "prompt": "Please share the total supply of USDC on the Ethereum network.",
+    "completion": {
+    "action": "total_supply",
+    "token1": "USDC",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "How many tokens of LINK are currently in circulation on the Ethereum network?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "LINK",
+    "chain": "Ethereum"
+    }
+    },
+    
+    {
+    "prompt": "Can you tell me the total supply of ADA on the Cardano blockchain?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "ADA",
+    "chain": "Cardano"
+    }
+    },
+    
+    {
+    "prompt": "What is the current total supply of XRP on the Ripple network?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "XRP",
+    "chain": "Ripple"
+    }
+    },
+    
+    {
+    "prompt": "I'm interested to know the total supply of BNB on the Binance Smart Chain. Could you please provide that information?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "BNB",
+    "chain": "Binance Smart Chain"
+    }
+    },
+    
+    {
+    "prompt": "Please share the total supply of SOL on the Solana blockchain.",
+    "completion": {
+    "action": "total_supply",
+    "token1": "SOL",
+    "chain": "Solana"
+    }
+    },
+    {
+    "prompt": "What is the circulating supply of BTC on the Bitcoin network?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "BTC",
+    "chain": "Bitcoin"
+    }
+    },
+    
+    {
+    "prompt": "Can you provide me with the total supply of ETH on the Ethereum network?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "ETH",
+    "chain": "Ethereum"
+    }
+    },
+    
+    {
+    "prompt": "I'm curious about the total supply of LTC on the Litecoin blockchain. Can you please provide that information?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "LTC",
+    "chain": "Litecoin"
+    }
+    },
+    
+    {
+    "prompt": "What is the current total supply of XMR on the Monero network?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "XMR",
+    "chain": "Monero"
+    }
+    },
+    
+    {
+    "prompt": "Please share the total supply of EOS on the EOS blockchain.",
+    "completion": {
+    "action": "total_supply",
+    "token1": "EOS",
+    "chain": "EOS"
+    }
+    },
+    {
+    "prompt": "I'm interested in knowing the total supply of ADA on the Cardano network. Can you provide that information?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "ADA",
+    "chain": "Cardano"
+    }
+    },
+    
+    {
+    "prompt": "Can you please share the total supply of BNB on the Binance Smart Chain?",
+    "completion": {
+    "action": "total_supply",
+    "token1": "BNB",
+    "chain": "Binance Smart Chain"
+    }
+    },
+    
+    {
+    "prompt": "I want to know the total supply of DOT on the Polkadot network. Please provide that information.",
+    "completion": {
+    "action": "total_supply",
+    "token1": "DOT",
+    "chain": "Polkadot"
+    }
+    },
+    
+    {
+    "prompt": "Please provide me with the total supply of BCH on the Bitcoin Cash blockchain.",
+    "completion": {
+    "action": "total_supply",
+    "token1": "BCH",
+    "chain": "Bitcoin Cash"
+    }
+    }
+    
+    
+    
+    
+    
+    
+    ]
+    
+  

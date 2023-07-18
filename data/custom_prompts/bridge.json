@@ -1,0 +1,907 @@
+[
+    {
+    "prompt": "Bridge 500 usdt from ethereum to optimism.",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDT",
+    "amount": "500",
+    "dest_chain": "Optimism"
+    }
+    },
+    {
+    "prompt": "Can you bridge 1000 DAI from gnosis to taiko?",
+    "completion": {
+    "action": "bridge",
+    "token1": "DAI",
+    "amount": "1000",
+    "dest_chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "I would like to bridge 200 ETH from Taiko to Chiado.",
+    "completion": {
+    "action": "bridge",
+    "token1": "ETH",
+    "amount": "200",
+    "dest_chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "Bridge 1000 USDC from Ethereum to Optimism.",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDC",
+    "amount": "1000",
+    "dest_chain": "Optimism"
+    }
+    },
+    {
+    "prompt": "Can you bridge 2000 wBTC from Gnosis to Chiado?",
+    "completion": {
+    "action": "bridge",
+    "token1": "wBTC",
+    "amount": "2000",
+    "dest_chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "I would like to bridge 5000 DAI from Taiko to Optimism.",
+    "completion": {
+    "action": "bridge",
+    "token1": "DAI",
+    "amount": "5000",
+    "dest_chain": "Optimism"
+    }
+    },
+    {
+    "prompt": "Bridge 50 ETH from Chiado to Gnosis.",
+    "completion": {
+    "action": "bridge",
+    "token1": "ETH",
+    "amount": "50",
+    "dest_chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "I want to bridge 100 LINK from Optimism to Ethereum.",
+    "completion": {
+    "action": "bridge",
+    "token1": "LINK",
+    "amount": "100",
+    "dest_chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "Bridge 500 USDT from Gnosis to Chiado.",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDT",
+    "amount": "500",
+    "dest_chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "Can you bridge 1500 DAI from Optimism to Taiko?",
+    "completion": {
+    "action": "bridge",
+    "token1": "DAI",
+    "amount": "1500",
+    "dest_chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "I would like to bridge 2000 wETH from Ethereum to Gnosis.",
+    "completion": {
+    "action": "bridge",
+    "token1": "wETH",
+    "amount": "2000",
+    "dest_chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "Bridge 1000 USDC from Chiado to Taiko.",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDC",
+    "amount": "1000",
+    "dest_chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "I want to bridge 50 wBTC from Taiko to Optimism.",
+    "completion": {
+    "action": "bridge",
+    "token1": "wBTC",
+    "amount": "50",
+    "dest_chain": "Optimism"
+    }
+    },
+    {
+    "prompt": "I want to transfer 1000 LINK from Ethereum to Optimism using the bridge feature. Can you help me with the process?",
+    "completion": {
+    "action": "bridge",
+    "token1": "LINK",
+    "amount": "1000",
+    "dest_chain": "Optimism"
+    }
+    },
+    {
+    "prompt": "Bridge 5000 wBTC from Gnosis to Chiado. Please assist me in completing the bridge transaction.",
+    "completion": {
+    "action": "bridge",
+    "token1": "wBTC",
+    "amount": "5000",
+    "dest_chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "Can you guide me through the process of bridging 2000 USDC from Taiko to Gnosis? I'm new to this functionality.",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDC",
+    "amount": "2000",
+    "dest_chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "I would like to bridge 50 ETH from Chiado to Taiko. Please provide me with the necessary steps to complete the bridge.",
+    "completion": {
+    "action": "bridge",
+    "token1": "ETH",
+    "amount": "50",
+    "dest_chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "Bridge 1000 DAI from Optimism to Ethereum network. Can you help me with the bridge transaction?",
+    "completion": {
+    "action": "bridge",
+    "token1": "DAI",
+    "amount": "1000",
+    "dest_chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "I want to transfer 200 LINK from Gnosis to Chiado using the bridge feature. Please assist me with the process.",
+    "completion": {
+    "action": "bridge",
+    "token1": "LINK",
+    "amount": "200",
+    "dest_chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "Can you guide me through the process of bridging 5000 wBTC from Taiko to Gnosis? I need to transfer my funds securely.",
+    "completion": {
+    "action": "bridge",
+    "token1": "wBTC",
+    "amount": "5000",
+    "dest_chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "I want to move 100 USDC from Ethereum to Optimism. Can you assist me with the bridge transaction?",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDC",
+    "amount": "100",
+    "dest_chain": "Optimism"
+    }
+    },
+    {
+    "prompt": "Can you guide me through the process of bridging 1000 DAI from Gnosis to Taiko? I need to transfer my funds to a different network.",
+    "completion": {
+    "action": "bridge",
+    "token1": "DAI",
+    "amount": "1000",
+    "dest_chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "I would like to bridge 500 ETH from Taiko to Chiado. Please provide me with the necessary steps to complete the bridge.",
+    "completion": {
+    "action": "bridge",
+    "token1": "ETH",
+    "amount": "500",
+    "dest_chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "Bridge 50 wBTC from Chiado to Gnosis. I want to transfer my wBTC to a different network.",
+    "completion": {
+    "action": "bridge",
+    "token1": "wBTC",
+    "amount": "50",
+    "dest_chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "Can you help me bridge 2000 LINK from Optimism to Ethereum? I need to move my funds across networks.",
+    "completion": {
+    "action": "bridge",
+    "token1": "LINK",
+    "amount": "2000",
+    "dest_chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "I want to transfer 1000 DAI from Gnosis to Chiado using the bridge feature. Please assist me with the process.",
+    "completion": {
+    "action": "bridge",
+    "token1": "DAI",
+    "amount": "1000",
+    "dest_chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "Bridge 5000 USDT from Taiko to Gnosis. Can you guide me through the bridge process?",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDT",
+    "amount": "5000",
+    "dest_chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "I want to transfer 1000 wBTC from Ethereum to Optimism. Can you help me bridge the tokens?",
+    "completion": {
+    "action": "bridge",
+    "token1": "wBTC",
+    "amount": "1000",
+    "dest_chain": "Optimism"
+    }
+    },
+    {
+    "prompt": "Bridge 2000 USDC from Gnosis to Taiko. I need to move my funds to a different network.",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDC",
+    "amount": "2000",
+    "dest_chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "Can you guide me through the process of bridging 500 DAI from Taiko to Chiado? I want to transfer my tokens.",
+    "completion": {
+    "action": "bridge",
+    "token1": "DAI",
+    "amount": "500",
+    "dest_chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "I would like to bridge 50 ETH from Gnosis to Ethereum. Please assist me with the bridge transaction.",
+    "completion": {
+    "action": "bridge",
+    "token1": "ETH",
+    "amount": "50",
+    "dest_chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "Bridge 100 LINK from Taiko to Gnosis. I want to move my tokens to a different network.",
+    "completion": {
+    "action": "bridge",
+    "token1": "LINK",
+    "amount": "100",
+    "dest_chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "I want to bridge 1000 USDT from Chiado to Optimism. Can you provide me with the necessary steps?",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDT",
+    "amount": "1000",
+    "dest_chain": "Optimism"
+    }
+    },
+    {
+    "prompt": "Can you help me bridge 200 DAI from Taiko to Ethereum? I need to transfer my tokens.",
+    "completion": {
+    "action": "bridge",
+    "token1": "DAI",
+    "amount": "200",
+    "dest_chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "Bridge 5000 wBTC from Gnosis to Chiado and assist me in completing the transaction.",
+    "completion": {
+    "action": "bridge",
+    "token1": "wBTC",
+    "amount": "5000",
+    "dest_chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "Can you guide me through bridging 2000 USDC from Taiko to Gnosis?",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDC",
+    "amount": "2000",
+    "dest_chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "I need to bridge 100 ETH from Ethereum to Optimism. Can you assist me in completing the bridge transaction?",
+    "completion": {
+    "action": "bridge",
+    "token1": "ETH",
+    "amount": "100",
+    "dest_chain": "Optimism"
+    }
+    },
+    {
+    "prompt": "Please help me bridge 5000 DAI from Gnosis to Taiko. I want to move the funds to another chain.",
+    "completion": {
+    "action": "bridge",
+    "token1": "DAI",
+    "amount": "5000",
+    "dest_chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "I'm looking to bridge 1000 USDT from Chiado to Gnosis. Could you guide me through the process?",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDT",
+    "amount": "1000",
+    "dest_chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "Can you assist me in bridging 2000 LINK from Optimism to Ethereum? I want to utilize the assets on a different network.",
+    "completion": {
+    "action": "bridge",
+    "token1": "LINK",
+    "amount": "2000",
+    "dest_chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "Bridge 50 USDC from Taiko to Chiado. Please provide me with the necessary steps to complete the transaction.",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDC",
+    "amount": "50",
+    "dest_chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "I want to bridge 5000 wBTC from Gnosis to Chiado.",
+    "completion": {
+    "action": "bridge",
+    "token1": "wBTC",
+    "amount": "5000",
+    "dest_chain": "Chiado"
+    }
+    },
+    
+    {
+    "prompt": "Bridge 2000 USDC from Taiko to Gnosis.",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDC",
+    "amount": "2000",
+    "dest_chain": "Gnosis"
+    }
+    },
+    
+    {
+    "prompt": "Please assist me in bridging 100 ETH from Ethereum to Optimism.",
+    "completion": {
+    "action": "bridge",
+    "token1": "ETH",
+    "amount": "100",
+    "dest_chain": "Optimism"
+    }
+    },
+    
+    {
+    "prompt": "I'm looking to bridge 500 DAI from Chiado to Taiko.",
+    "completion": {
+    "action": "bridge",
+    "token1": "DAI",
+    "amount": "500",
+    "dest_chain": "Taiko"
+    }
+    },
+    
+    {
+    "prompt": "Bridge 100 LINK from Optimism to Ethereum.",
+    "completion": {
+    "action": "bridge",
+    "token1": "LINK",
+    "amount": "100",
+    "dest_chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "I would like to transfer 5000 USDT from Ethereum to Optimism via the bridge.",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDT",
+    "amount": "5000",
+    "dest_chain": "Optimism"
+    }
+    },
+    
+    {
+    "prompt": "Can you assist me in bridging 1000 DAI from Gnosis to Taiko?",
+    "completion": {
+    "action": "bridge",
+    "token1": "DAI",
+    "amount": "1000",
+    "dest_chain": "Taiko"
+    }
+    },
+    
+    {
+    "prompt": "Bridge 200 ETH from Taiko to Chiado and complete the transaction.",
+    "completion": {
+    "action": "bridge",
+    "token1": "ETH",
+    "amount": "200",
+    "dest_chain": "Chiado"
+    }
+    },
+    
+    {
+    "prompt": "Please guide me through the process of bridging 500 DAI from Chiado to Gnosis.",
+    "completion": {
+    "action": "bridge",
+    "token1": "DAI",
+    "amount": "500",
+    "dest_chain": "Gnosis"
+    }
+    },
+    
+    {
+    "prompt": "I want to bridge 100 LINK from Optimism to Ethereum using the bridge functionality.",
+    "completion": {
+    "action": "bridge",
+    "token1": "LINK",
+    "amount": "100",
+    "dest_chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "I need to bridge 5000 wBTC from Gnosis to Chiado, can you help me with the bridge transaction?",
+    "completion": {
+    "action": "bridge",
+    "token1": "wBTC",
+    "amount": "5000",
+    "dest_chain": "Chiado"
+    }
+    },
+    
+    {
+    "prompt": "Please assist me in bridging 2000 USDC from Taiko to Gnosis, I'm new to this process.",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDC",
+    "amount": "2000",
+    "dest_chain": "Gnosis"
+    }
+    },
+    
+    {
+    "prompt": "I'm looking to bridge 1000 DAI from Ethereum to Optimism, can you guide me through the bridge transaction?",
+    "completion": {
+    "action": "bridge",
+    "token1": "DAI",
+    "amount": "1000",
+    "dest_chain": "Optimism"
+    }
+    },
+    
+    {
+    "prompt": "Can you help me bridge 50 ETH from Chiado to Gnosis? I want to ensure a smooth transaction.",
+    "completion": {
+    "action": "bridge",
+    "token1": "ETH",
+    "amount": "50",
+    "dest_chain": "Gnosis"
+    }
+    },
+    
+    {
+    "prompt": "I'm interested in bridging 100 LINK from Optimism to Ethereum, can you provide guidance on the bridge process?",
+    "completion": {
+    "action": "bridge",
+    "token1": "LINK",
+    "amount": "100",
+    "dest_chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "I want to bridge 500 USDT from Ethereum to Optimism, please assist me with the bridge transaction.",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDT",
+    "amount": "500",
+    "dest_chain": "Optimism"
+    }
+    },
+    
+    {
+    "prompt": "Can you guide me through the process of bridging 1000 DAI from Gnosis to Taiko? I'm new to this functionality.",
+    "completion": {
+    "action": "bridge",
+    "token1": "DAI",
+    "amount": "1000",
+    "dest_chain": "Taiko"
+    }
+    },
+    
+    {
+    "prompt": "I would like to bridge 200 ETH from Taiko to Chiado, can you assist me in completing the bridge transaction?",
+    "completion": {
+    "action": "bridge",
+    "token1": "ETH",
+    "amount": "200",
+    "dest_chain": "Chiado"
+    }
+    },
+    
+    {
+    "prompt": "Please help me bridge 50 LINK from Gnosis to Ethereum, I need to transfer the tokens to another platform.",
+    "completion": {
+    "action": "bridge",
+    "token1": "LINK",
+    "amount": "50",
+    "dest_chain": "Ethereum"
+    }
+    },
+    
+    {
+    "prompt": "Can you provide guidance on bridging 1000 USDC from Chiado to Gnosis? I want to ensure a smooth transaction.",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDC",
+    "amount": "1000",
+    "dest_chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "I need to bridge 500 wBTC from Optimism to Ethereum, could you assist me with the bridge transaction?",
+    "completion": {
+    "action": "bridge",
+    "token1": "wBTC",
+    "amount": "500",
+    "dest_chain": "Ethereum"
+    }
+    },
+    
+    {
+    "prompt": "Can you guide me through the process of bridging 2000 DAI from Taiko to Gnosis? I want to ensure a successful transfer.",
+    "completion": {
+    "action": "bridge",
+    "token1": "DAI",
+    "amount": "2000",
+    "dest_chain": "Gnosis"
+    }
+    },
+    
+    {
+    "prompt": "I would like to bridge 100 ETH from Chiado to Optimism. Please provide the necessary steps to complete the bridge transaction.",
+    "completion": {
+    "action": "bridge",
+    "token1": "ETH",
+    "amount": "100",
+    "dest_chain": "Optimism"
+    }
+    },
+    
+    {
+    "prompt": "Bridge 50 USDC from Ethereum to Taiko. I need assistance in transferring the tokens to the destination address.",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDC",
+    "amount": "50",
+    "dest_chain": "Taiko"
+    }
+    },
+    
+    {
+    "prompt": "Can you help me bridge 100 LINK from Gnosis to Chiado? I want to move the tokens to a different platform.",
+    "completion": {
+    "action": "bridge",
+    "token1": "LINK",
+    "amount": "100",
+    "dest_chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "I need to transfer 1000 USDT from Ethereum to Optimism using the bridge, can you assist me with the transaction?",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDT",
+    "amount": "1000",
+    "dest_chain": "Optimism"
+    }
+    },
+    
+    {
+    "prompt": "Please guide me through the process of bridging 200 DAI from Taiko to Gnosis, I want to ensure a smooth transfer.",
+    "completion": {
+    "action": "bridge",
+    "token1": "DAI",
+    "amount": "200",
+    "dest_chain": "Gnosis"
+    }
+    },
+    
+    {
+    "prompt": "I would like to bridge 500 ETH from Chiado to Optimism, can you provide the necessary steps to complete the transaction?",
+    "completion": {
+    "action": "bridge",
+    "token1": "ETH",
+    "amount": "500",
+    "dest_chain": "Optimism"
+    }
+    },
+    
+    {
+    "prompt": "Bridge 50 USDC from Ethereum to Taiko, I need assistance in transferring the tokens to the destination wallet.",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDC",
+    "amount": "50",
+    "dest_chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "I want to transfer 1000 DAI from Ethereum to Taiko using the bridge feature, can you guide me through the process?",
+    "completion": {
+    "action": "bridge",
+    "token1": "DAI",
+    "amount": "1000",
+    "dest_chain": "Taiko"
+    }
+    },
+    
+    {
+    "prompt": "Bridge 500 wBTC from Gnosis to Optimism, I need assistance in completing the transaction.",
+    "completion": {
+    "action": "bridge",
+    "token1": "wBTC",
+    "amount": "500",
+    "dest_chain": "Optimism"
+    }
+    },
+    
+    {
+    "prompt": "Can you provide the necessary steps to bridge 2000 USDC from Chiado to Gnosis? I'm new to this process.",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDC",
+    "amount": "2000",
+    "dest_chain": "Gnosis"
+    }
+    },
+    
+    {
+    "prompt": "I'm interested in bridging 100 ETH from Optimism to Ethereum, can you assist me with the transaction?",
+    "completion": {
+    "action": "bridge",
+    "token1": "ETH",
+    "amount": "100",
+    "dest_chain": "Ethereum"
+    }
+    },
+    
+    {
+    "prompt": "Bridge 50 LINK from Taiko to Chiado, please provide the necessary steps to complete the transfer.",
+    "completion": {
+    "action": "bridge",
+    "token1": "LINK",
+    "amount": "50",
+    "dest_chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "I want to bridge 1000 USDC from Ethereum to Gnosis, can you assist me with the process?",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDC",
+    "amount": "1000",
+    "dest_chain": "Gnosis"
+    }
+    },
+    
+    {
+    "prompt": "Please guide me through the bridge transaction to transfer 500 wBTC from Optimism to Chiado.",
+    "completion": {
+    "action": "bridge",
+    "token1": "wBTC",
+    "amount": "500",
+    "dest_chain": "Chiado"
+    }
+    },
+    
+    {
+    "prompt": "I would like to bridge 2000 DAI from Gnosis to Taiko, can you provide the necessary steps?",
+    "completion": {
+    "action": "bridge",
+    "token1": "DAI",
+    "amount": "2000",
+    "dest_chain": "Taiko"
+    }
+    },
+    
+    {
+    "prompt": "Can you help me bridge 100 ETH from Chiado to Optimism? I need assistance with the transaction.",
+    "completion": {
+    "action": "bridge",
+    "token1": "ETH",
+    "amount": "100",
+    "dest_chain": "Optimism"
+    }
+    },
+    
+    {
+    "prompt": "Bridge 50 LINK from Taiko to Ethereum, I need guidance on how to complete the transfer.",
+    "completion": {
+    "action": "bridge",
+    "token1": "LINK",
+    "amount": "50",
+    "dest_chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "I want to bridge 1000 USDC from Ethereum to Polygon. Can you assist me with the bridging process?",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDC",
+    "amount": "1000",
+    "dest_chain": "Polygon"
+    }
+    },
+    
+    {
+    "prompt": "Can you guide me through the process of bridging 500 DAI from Avalanche to Ethereum? I'm new to this functionality.",
+    "completion": {
+    "action": "bridge",
+    "token1": "DAI",
+    "amount": "500",
+    "dest_chain": "Ethereum"
+    }
+    },
+    
+    {
+    "prompt": "I'm looking to bridge 200 ETH from Binance Smart Chain to Solana. How can I proceed with the bridge transaction?",
+    "completion": {
+    "action": "bridge",
+    "token1": "ETH",
+    "amount": "200",
+    "dest_chain": "Solana"
+    }
+    },
+    
+    {
+    "prompt": "Please help me bridge 1000 USDT from Ethereum to Harmony. I need assistance in completing the bridge.",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDT",
+    "amount": "1000",
+    "dest_chain": "Harmony"
+    }
+    },
+    
+    {
+    "prompt": "Can you provide guidance on bridging 5000 DAI from Polygon to Ethereum? I want to ensure a smooth bridge transaction.",
+    "completion": {
+    "action": "bridge",
+    "token1": "DAI",
+    "amount": "5000",
+    "dest_chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "I would like to bridge 2000 USDC from Avalanche to Ethereum. Could you please assist me with the bridging process?",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDC",
+    "amount": "2000",
+    "dest_chain": "Ethereum"
+    }
+    },
+    
+    {
+    "prompt": "Can you guide me on how to bridge 100 LINK from Ethereum to Binance Smart Chain? I need help with the bridge transaction.",
+    "completion": {
+    "action": "bridge",
+    "token1": "LINK",
+    "amount": "100",
+    "dest_chain": "Binance Smart Chain"
+    }
+    },
+    
+    {
+    "prompt": "I'm looking to bridge 500 ETH from Polygon to Avalanche. What is the process for completing the bridge?",
+    "completion": {
+    "action": "bridge",
+    "token1": "ETH",
+    "amount": "500",
+    "dest_chain": "Avalanche"
+    }
+    },
+    
+    {
+    "prompt": "Please assist me in bridging 1000 DAI from Solana to Ethereum. I need guidance in completing the bridge transaction.",
+    "completion": {
+    "action": "bridge",
+    "token1": "DAI",
+    "amount": "1000",
+    "dest_chain": "Ethereum"
+    }
+    },
+    
+    {
+    "prompt": "Can you provide instructions for bridging 200 USDT from Binance Smart Chain to Polygon? I'm new to this process.",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDT",
+    "amount": "200",
+    "dest_chain": "Polygon"
+    }
+    },
+    {
+    "prompt": "I want to transfer 5000 wBTC from Ethereum to Binance Smart Chain. Can you guide me through the bridge process?",
+    "completion": {
+    "action": "bridge",
+    "token1": "wBTC",
+    "amount": "5000",
+    "dest_chain": "Binance Smart Chain"
+    }
+    },
+    
+    {
+    "prompt": "Can you assist me in bridging 1000 USDC from Avalanche to Ethereum? I'm new to this functionality.",
+    "completion": {
+    "action": "bridge",
+    "token1": "USDC",
+    "amount": "1000",
+    "dest_chain": "Ethereum"
+    }
+    },
+    
+    {
+    "prompt": "I would like to bridge 200 ETH from Polygon to Binance Smart Chain. Please provide me with the necessary steps.",
+    "completion": {
+    "action": "bridge",
+    "token1": "ETH",
+    "amount": "200",
+    "dest_chain": "Binance Smart Chain"
+    }
+    },
+    
+    {
+    "prompt": "Could you guide me through the process of bridging 10000 DAI from Ethereum to Avalanche? I need assistance with the transaction.",
+    "completion": {
+    "action": "bridge",
+    "token1": "DAI",
+    "amount": "10000",
+    "dest_chain": "Avalanche"
+    }
+    },
+    
+    {
+    "prompt": "I want to bridge 50 LINK from Binance Smart Chain to Polygon. Please help me with the bridge transaction.",
+    "completion": {
+    "action": "bridge",
+    "token1": "LINK",
+    "amount": "50",
+    "dest_chain": "Polygon"
+    }
+    }
+    
+    
+    
+    
+    ]
+    
+ 
+    

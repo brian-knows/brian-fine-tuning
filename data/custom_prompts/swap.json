@@ -1,0 +1,799 @@
+[
+    {
+    "prompt": "I would like to swap 1000 usdc to UNI on Gnosis.",
+    "completion": {
+    "action": "swap",
+    "token1": "USDC",
+    "token2": "UNI",
+    "chain": "Gnosis",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "Swap 50 wBTC to eth on Chiadoo.",
+    "completion": {
+    "action": "swap",
+    "token1": "wBTC",
+    "token2": "ETH",
+    "chain": "Chiado",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "Can you guide me through the process of swapping 2000 DAI for usdc on Gnosis?",
+    "completion": {
+    "action": "swap",
+    "token1": "DAI",
+    "token2": "USDC",
+    "chain": "Gnosis",
+    "amount": "2000"
+    }
+    },
+    {
+    "prompt": "I'd like to swap 1000 DAI to UNI on Gnosis.",
+    "completion": {
+    "action": "swap",
+    "token1": "DAI",
+    "token2": "UNI",
+    "chain": "Gnosis",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "Swap 50 wBTC to ETH on Chiado.",
+    "completion": {
+    "action": "swap",
+    "token1": "wBTC",
+    "token2": "ETH",
+    "chain": "Chiado",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "Can you guide me through the process of swaping 200 USDC for DAI on Gnosis?",
+    "completion": {
+    "action": "swap",
+    "token1": "USDC",
+    "token2": "DAI",
+    "chain": "Gnosis",
+    "amount": "200"
+    }
+    },
+    {
+    "prompt": "Can you guide me through the process of swappyng 200 USDC for DAI on Gnosis?",
+    "completion": {
+    "action": "swap",
+    "token1": "USDC",
+    "token2": "DAI",
+    "chain": "Gnosis",
+    "amount": "200"
+    }
+    },
+    {
+    "prompt": "Swap 100 DAI to usdc on Gnosis.",
+    "completion": {
+    "action": "swap",
+    "token1": "DAI",
+    "token2": "USDC",
+    "chain": "Gnosis",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "Swap 100 DAI to usdc on Gnosis.",
+    "completion": {
+    "action": "swap",
+    "token1": "wBTC",
+    "token2": "ETH",
+    "chain": "Taiko",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "I would like to swap 2000 USDT to DAI on Chiado.",
+    "completion": {
+    "action": "swap",
+    "token1": "USDT",
+    "token2": "DAI",
+    "chain": "Chiado",
+    "amount": "2000"
+    }
+    },
+    {
+    "prompt": "I want to swap 200 USDC for DAI on Gnosis.",
+    "completion": {
+    "action": "swap",
+    "token1": "USDC",
+    "token2": "DAI",
+    "chain": "Gnosis",
+    "amount": "200"
+    }
+    },
+    {
+    "prompt": "Can you guide me through the process of swapping 1000 dai to usdt on Gnosis?",
+    "completion": {
+    "action": "swap",
+    "token1": "DAI",
+    "token2": "USDT",
+    "chain": "Gnosis",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "Can you help me swap 1000 DAI for USDC on Gnosis?",
+    "completion": {
+    "action": "swap",
+    "token1": "DAI",
+    "token2": "USDC",
+    "chain": "Gnosis",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "I want to exchange 50 usdc for wbtc on Ethereum",
+    "completion": {
+    "action": "swap",
+    "token1": "USDC",
+    "token2": "wBTC",
+    "chain": "Ethereum",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "Is it possible to swap 100 uni for dai on Gnosis? If yes,",
+    "completion": {
+    "action": "swap",
+    "token1": "UNI",
+    "token2": "DAI",
+    "chain": "Gnosis",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "I would like to trade 2000 DAI to ETH on Taiko. Can you guide me through the process? I'm new to this platform.",
+    "completion": {
+    "action": "swap",
+    "token1": "DAI",
+    "token2": "ETH",
+    "chain": "Taiko",
+    "amount": "2000"
+    }
+    },
+    {
+    "prompt": "I'm planning to exchange 2000 DAI to ETH on Taiko. Can you guide me through the process? I'm new to this platform.",
+    "completion": {
+    "action": "swap",
+    "token1": "DAI",
+    "token2": "ETH",
+    "chain": "Taiko",
+    "amount": "2000"
+    }
+    },
+    {
+    "prompt": "I want to trade 50 USDC for wBTC on Chiado. Can you assist me with the swap? Please provide the necessary steps.",
+    "completion": {
+    "action": "swap",
+    "token1": "USDC",
+    "token2": "wBTC",
+    "chain": "Chiado",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "Is it possible to exchange 100 UNI for DAI on Gnosis? If so, could you provide instructions on how to proceed?",
+    "completion": {
+    "action": "swap",
+    "token1": "UNI",
+    "token2": "DAI",
+    "chain": "Gnosis",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "I would like to swap 2000 DAI for ETH on Taiko. Can you guide me through the process?",
+    "completion": {
+    "action": "swap",
+    "token1": "DAI",
+    "token2": "ETH",
+    "chain": "Taiko",
+    "amount": "2000"
+    }
+    },
+    {
+    "prompt": "In Chiado, I want to exchange 50 USDC for wBTC. Please proceed with the swap.",
+    "completion": {
+    "action": "swap",
+    "token1": "USDC",
+    "token2": "wBTC",
+    "chain": "Chiado",
+    "amount": "50"
+    }
+    },
+    
+    {
+    "prompt": "I'm looking for guidance on swapping 100 UNI for DAI on Gnosis. Can you provide the necessary steps?",
+    "completion": {
+    "action": "swap",
+    "token1": "UNI",
+    "token2": "DAI",
+    "chain": "Gnosis",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "I'd like to trade 2000 DAI to eth on Taiko.",
+    "completion": {
+    "action": "swap",
+    "token1": "DAI",
+    "token2": "ETH",
+    "chain": "Taiko",
+    "amount": "2000"
+    }
+    },
+    {
+    "prompt": "Swap 50 USDC to wBTC on Chiado.",
+    "completion": {
+    "action": "swap",
+    "token1": "USDC",
+    "token2": "wBTC",
+    "chain": "Chiado",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "I want to buy usdc and sell 0.1 eth on Optimism",
+    "completion": {
+    "action": "swap",
+    "token1": "ETH",
+    "token2": "USDC",
+    "amount": "0.1",
+    "chain": "Optimism"
+    }
+    },
+    {
+    "prompt": "Can you guide me through the process of swapping 100 UNI for DAI on Gnosis?",
+    "completion": {
+    "action": "swap",
+    "token1": "UNI",
+    "token2": "DAI",
+    "chain": "Gnosis",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "I'd like to swap 2000 DAI to ETH on Optimism.",
+    "completion": {
+    "action": "swap",
+    "token1": "DAI",
+    "token2": "ETH",
+    "chain": "Optimism",
+    "amount": "2000"
+    }
+    },
+    {
+    "prompt": "Swap 50 USDC to wBTC on Gnosis.",
+    "completion": {
+    "action": "swap",
+    "token1": "USDC",
+    "token2": "wBTC",
+    "chain": "Gnosis",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "Can you guide me through the process of swapping 100 UNI for DAI on Taiko?",
+    "completion": {
+    "action": "swap",
+    "token1": "UNI",
+    "token2": "DAI",
+    "chain": "Taiko",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "Swap 2000 DAI to UNI on Ethereum",
+    "completion": {
+    "action": "swap",
+    "token1": "DAI",
+    "token2": "UNI",
+    "chain": "Ethereum",
+    "amount": "2000"
+    }
+    },
+    {
+    "prompt": "Can you guide me through swapping 50 wBTC to ETH on Optimism?",
+    "completion": {
+    "action": "swap",
+    "token1": "wBTC",
+    "token2": "ETH",
+    "chain": "Optimism",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "Hey Brian! I want to swap 100 USDC for DAI on Gnosis.",
+    "completion": {
+    "action": "swap",
+    "token1": "USDC",
+    "token2": "DAI",
+    "chain": "Gnosis",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "I'd like to swap 1000 DAI to UNI on Taiko.",
+    "completion": {
+    "action": "swap",
+    "token1": "DAI",
+    "token2": "UNI",
+    "chain": "Taiko",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "Can you guide me through the process of swapping 200 USDC for DAI on Ethereum?",
+    "completion": {
+    "action": "swap",
+    "token1": "USDC",
+    "token2": "DAI",
+    "chain": "Ethereum",
+    "amount": "200"
+    }
+    },
+    {
+    "prompt": "I want to sell 1000 USDT and buy ETH.",
+    "completion": {
+    "action": "swap",
+    "token1": "USDT",
+    "token2": "ETH",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "I want to swap 0.5 BTC for USDC.",
+    "completion": {
+    "action": "swap",
+    "token1": "BTC",
+    "token2": "USDC",
+    "amount": "0.5"
+    }
+    },
+    {
+    "prompt": "I want to exchange 2000 DAI for wBTC.",
+    "completion": {
+    "action": "swap",
+    "token1": "DAI",
+    "token2": "wBTC",
+    "amount": "2000"
+    }
+    },
+    {
+    "prompt": "Hey Brian! I'd like to buy 1000 USDC using ETH.",
+    "completion": {
+    "action": "swap",
+    "token1": "ETH",
+    "token2": "USDC",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "I want to sell 50 LINK and buy DAI.",
+    "completion": {
+    "action": "swap",
+    "token1": "LINK",
+    "token2": "DAI",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "I want to buy 1000 wBTC using USDT.",
+    "completion": {
+    "action": "swap",
+    "token1": "USDT",
+    "token2": "wBTC",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "I want to get 1000 wbtc using usdt.",
+    "completion": {
+    "action": "swap",
+    "token1": "USDT",
+    "token2": "wBTC",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "Hey Brian! I wanna get 1000 wbtc using usdt.",
+    "completion": {
+    "action": "swap",
+    "token1": "USDT",
+    "token2": "wBTC",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "I want 1000 wbtc using usdt.",
+    "completion": {
+    "action": "swap",
+    "token1": "USDT",
+    "token2": "wBTC",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "I want 100 USDC for dai",
+    "completion": {
+    "action": "swap",
+    "token1": "USDC",
+    "token2": "DAI",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "I would like to perform a swap of 500 USDC for ETH on Gnosis. Can you assist me with the process?",
+    "completion": {
+    "action": "swap",
+    "token1": "USDC",
+    "token2": "ETH",
+    "chain": "Gnosis",
+    "amount": "500"
+    }
+    },
+    {
+    "prompt": "Swap 1000 LINK for DAI on Ethereum.",
+    "completion": {
+    "action": "swap",
+    "token1": "LINK",
+    "token2": "DAI",
+    "chain": "Ethereum",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "I'm interested in swapping 2000 USDT for wBTC on Taiko. How can I proceed?",
+    "completion": {
+    "action": "swap",
+    "token1": "USDT",
+    "token2": "wBTC",
+    "chain": "Taiko",
+    "amount": "2000"
+    }
+    },
+    {
+    "prompt": "Can you guide me through the process of swapping 50 ETH for UNI on Chiado?",
+    "completion": {
+    "action": "swap",
+    "token1": "ETH",
+    "token2": "UNI",
+    "chain": "Chiado",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "Swap 1000 DAI for USDC on Gnosis.",
+    "completion": {
+    "action": "swap",
+    "token1": "DAI",
+    "token2": "USDC",
+    "chain": "Gnosis",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "I'm looking to swap 500 wBTC for ETH on Optimism. Can you provide me with the necessary steps?",
+    "completion": {
+    "action": "swap",
+    "token1": "wBTC",
+    "token2": "ETH",
+    "chain": "Optimism",
+    "amount": "500"
+    }
+    },
+    {
+    "prompt": "Swap 50 UNI for DAI on Taiko.",
+    "completion": {
+    "action": "swap",
+    "token1": "UNI",
+    "token2": "DAI",
+    "chain": "Taiko",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "Hey Brian! I want to perform a swap of 1000 USDT for wBTC on Ethereum. How can I proceed?",
+    "completion": {
+    "action": "swap",
+    "token1": "USDT",
+    "token2": "wBTC",
+    "chain": "Ethereum",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "I want to exchange 200 DAI for USDC on Chiado. Can you assist me with the swap process?",
+    "completion": {
+    "action": "swap",
+    "token1": "DAI",
+    "token2": "USDC",
+    "chain": "Chiado",
+    "amount": "200"
+    }
+    },
+    {
+    "prompt": "Swap 1000 ETH to wBTC on Gnosis. I'm new to the platform, so I need some guidance.",
+    "completion": {
+    "action": "swap",
+    "token1": "ETH",
+    "token2": "wBTC",
+    "chain": "Gnosis",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "I'm interested in swapping 50 UNI for LINK on Optimism. How can I proceed with the swap?",
+    "completion": {
+    "action": "swap",
+    "token1": "UNI",
+    "token2": "LINK",
+    "chain": "Optimism",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "Can you guide me through swapping 500 USDT to DAI on Taiko? I want to make sure I do it correctly.",
+    "completion": {
+    "action": "swap",
+    "token1": "USDT",
+    "token2": "DAI",
+    "chain": "Taiko",
+    "amount": "500"
+    }
+    },
+    {
+    "prompt": "I want to perform a swap of 100 wBTC for ETH on Ethereum. What are the necessary steps?",
+    "completion": {
+    "action": "swap",
+    "token1": "wBTC",
+    "token2": "ETH",
+    "chain": "Ethereum",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "Swap 2000 USDC to DAI on Gnosis. Can you provide me with the details on how to do it?",
+    "completion": {
+    "action": "swap",
+    "token1": "USDC",
+    "token2": "DAI",
+    "chain": "Gnosis",
+    "amount": "2000"
+    }
+    },
+    {
+    "prompt": "I'm looking to swap 50 LINK for UNI on Chiado. Please guide me through the process.",
+    "completion": {
+    "action": "swap",
+    "token1": "LINK",
+    "token2": "UNI",
+    "chain": "Chiado",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "Can you assist me with swapping 1000 wBTC to ETH on Taiko? I'm not familiar with the platform.",
+    "completion": {
+    "action": "swap",
+    "token1": "wBTC",
+    "token2": "ETH",
+    "chain": "Taiko",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "I want to exchange 500 DAI for USDT on Gnosis. How can I proceed with the swap?",
+    "completion": {
+    "action": "swap",
+    "token1": "DAI",
+    "token2": "USDT",
+    "chain": "Gnosis",
+    "amount": "500"
+    }
+    },
+    {
+    "prompt": "Swap 1000 UNI for wBTC on Chiado. Can you guide me through the process?",
+    "completion": {
+    "action": "swap",
+    "token1": "UNI",
+    "token2": "wBTC",
+    "chain": "Chiado",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "Can you help me swap 50 ETH to DAI on Optimism? I'm new to this platform.",
+    "completion": {
+    "action": "swap",
+    "token1": "ETH",
+    "token2": "DAI",
+    "chain": "Optimism",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "I'm interested in swapping 200 LINK for USDC on Taiko. Please provide me with the necessary steps.",
+    "completion": {
+    "action": "swap",
+    "token1": "LINK",
+    "token2": "USDC",
+    "chain": "Taiko",
+    "amount": "200"
+    }
+    },
+    {
+    "prompt": "I want to perform a swap of 1000 DAI for ETH on Ethereum. Can you assist me with that?",
+    "completion": {
+    "action": "swap",
+    "token1": "DAI",
+    "token2": "ETH",
+    "chain": "Ethereum",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "Swap 500 USDT for wBTC on Gnosis. What are the necessary steps for the swap?",
+    "completion": {
+    "action": "swap",
+    "token1": "USDT",
+    "token2": "wBTC",
+    "chain": "Gnosis",
+    "amount": "500"
+    }
+    },
+    {
+    "prompt": "I would like to swap 50 DAI for UNI on Chiado. Can you guide me through the process?",
+    "completion": {
+    "action": "swap",
+    "token1": "DAI",
+    "token2": "UNI",
+    "chain": "Chiado",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "Can you assist me with swapping 100 ETH for USDT on Taiko? I need some guidance.",
+    "completion": {
+    "action": "swap",
+    "token1": "ETH",
+    "token2": "USDT",
+    "chain": "Taiko",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "I'm looking to exchange 2000 USDC for DAI on Optimism. How can I proceed with the swap?",
+    "completion": {
+    "action": "swap",
+    "token1": "USDC",
+    "token2": "DAI",
+    "chain": "Optimism",
+    "amount": "2000"
+    }
+    },
+    {
+    "prompt": "Swap 100 wBTC for ETH on Gnosis. Can you guide me through the process?",
+    "completion": {
+    "action": "swap",
+    "token1": "wBTC",
+    "token2": "ETH",
+    "chain": "Gnosis",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "Can you help me swap 50 UNI for DAI on Chiado? I'm new to this platform.",
+    "completion": {
+    "action": "swap",
+    "token1": "UNI",
+    "token2": "DAI",
+    "chain": "Chiado",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "I want to perform a swap of 1000 ETH for LINK on Ethereum. Can you assist me with that?",
+    "completion": {
+    "action": "swap",
+    "token1": "ETH",
+    "token2": "LINK",
+    "chain": "Ethereum",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "Swap 500 USDT for wBTC on Taiko. What are the necessary steps for the swap?",
+    "completion": {
+    "action": "swap",
+    "token1": "USDT",
+    "token2": "wBTC",
+    "chain": "Taiko",
+    "amount": "500"
+    }
+    },
+    {
+    "prompt": "I would like to swap 50 DAI for UNI on Gnosis. Can you guide me through the process?",
+    "completion": {
+    "action": "swap",
+    "token1": "DAI",
+    "token2": "UNI",
+    "chain": "Gnosis",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "Can you assist me with swapping 1000 USDC for ETH on Chiado? I need some guidance.",
+    "completion": {
+    "action": "swap",
+    "token1": "USDC",
+    "token2": "ETH",
+    "chain": "Chiado",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "I'm interested in swapping 200 LINK for USDT on Taiko. Can you provide me with the necessary steps?",
+    "completion": {
+    "action": "swap",
+    "token1": "LINK",
+    "token2": "USDT",
+    "chain": "Taiko",
+    "amount": "200"
+    }
+    },
+    {
+    "prompt": "I want to convert 1000 DAI to USDC on Gnosis. How can I proceed with the swap?",
+    "completion": {
+    "action": "swap",
+    "token1": "DAI",
+    "token2": "USDC",
+    "chain": "Gnosis",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "Swap 50 ETH for wBTC on Chiado. Can you guide me through the process?",
+    "completion": {
+    "action": "swap",
+    "token1": "ETH",
+    "token2": "wBTC",
+    "chain": "Chiado",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "Can you assist me in swapping 200 USDT for DAI on Optimism? I need some help with the transaction.",
+    "completion": {
+    "action": "swap",
+    "token1": "USDT",
+    "token2": "DAI",
+    "chain": "Optimism",
+    "amount": "200"
+    }
+    },
+    {
+    "prompt": "I'm new to Taiko and would like to swap 100 UNI for ETH. Can you provide me with the necessary steps?",
+    "completion": {
+    "action": "swap",
+    "token1": "UNI",
+    "token2": "ETH",
+    "chain": "Taiko",
+    "amount": "100"
+    }
+    }
+    
+    
+    
+]
+    
+    
+    

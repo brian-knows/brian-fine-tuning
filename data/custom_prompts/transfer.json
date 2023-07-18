@@ -1,0 +1,810 @@
+[
+    {
+    "prompt": "I want to send 50 USDC to 0x1234567890123456789012345678901234567890 on Chiado.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDC",
+    "chain": "Chiado",
+    "address": "0x1234567890123456789012345678901234567890",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "Transfer 1000 wBTC to 0x1234567890123456789012345678901234567890 on Gnosis!",
+    "completion": {
+    "action": "transfer",
+    "token1": "wBTC",
+    "chain": "Gnosis",
+    "address": "0x1234567890123456789012345678901234567890",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "Can you help me transfering 5000 ETH to address 0x1234567890123456789012345678901234567890 on Gnosis?",
+    "completion": {
+    "action": "transfer",
+    "token1": "ETH",
+    "chain": "Gnosis",
+    "address": "0x1234567890123456789012345678901234567890",
+    "amount": "5000"
+    }
+    },
+    {
+    "prompt": "I want to send 200 DAI to 0x1234567890123456789012345678901234567890 on Chiado please.",
+    "completion": {
+    "action": "transfer",
+    "token1": "DAI",
+    "chain": "Chiado",
+    "address": "0x1234567890123456789012345678901234567890",
+    "amount": "200"
+    }
+    },
+    {
+    "prompt": "I want to transfer 100 USD to 0x1234567890123456789012345678901234567890 on Gnosis.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USD",
+    "chain": "Gnosis",
+    "address": "0x1234567890123456789012345678901234567890",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "Transfer 50 BTC to 0x1234567890123456789012345678901234567890 on Chiado!",
+    "completion": {
+    "action": "transfer",
+    "token1": "BTC",
+    "chain": "Chiado",
+    "address": "0x1234567890123456789012345678901234567890",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "I want to send 2000 ETH to 0x1234567890123456789012345678901234567890 on Gnosis please.",
+    "completion": {
+    "action": "transfer",
+    "token1": "ETH",
+    "chain": "Gnosis",
+    "address": "0x1234567890123456789012345678901234567890",
+    "amount": "2000"
+    }
+    },
+    
+    {
+    "prompt": "Can you help me transfer 500 USDT to address 0x1234567890123456789012345678901234567890 on Chiado?",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDT",
+    "chain": "Chiado",
+    "address": "0x1234567890123456789012345678901234567890",
+    "amount": "500"
+    }
+    },
+    {
+    "prompt": "Please transfer 100 USDC to 0x9876543210987654321098765432109876543210 on Gnosis.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDC",
+    "chain": "Gnosis",
+    "address": "0x9876543210987654321098765432109876543210",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "Transfer 50 ETH to 0xabcdef0123456789abcdef0123456789abcdef01 on Chiado!",
+    "completion": {
+    "action": "transfer",
+    "token1": "ETH",
+    "chain": "Chiado",
+    "address": "0xabcdef0123456789abcdef0123456789abcdef01",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "I want to send 2000 DAI to 0xdeadbeef0123456789deadbeef0123456789dead on Gnosis.",
+    "completion": {
+    "action": "transfer",
+    "token1": "DAI",
+    "chain": "Gnosis",
+    "address": "0xdeadbeef0123456789deadbeef0123456789dead",
+    "amount": "2000"
+    }
+    },
+    {
+    "prompt": "Can you help me transfer 500 USDT to address 0x5555555555555555555555555555555555555555 on Chiado?",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDT",
+    "chain": "Chiado",
+    "address": "0x5555555555555555555555555555555555555555",
+    "amount": "500"
+    }
+    },
+    {
+    "prompt": "Please transfer 100 USDC to 0x9876543210987654321098765432109876543210 on Ethereum.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDC",
+    "chain": "Ethereum",
+    "address": "0x9876543210987654321098765432109876543210",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "Transfer 50 eth to 0xabcdef0123456789abcdef0123456789abcdef01 on Optimism!",
+    "completion": {
+    "action": "transfer",
+    "token1": "ETH",
+    "chain": "Optimism",
+    "address": "0xabcdef0123456789abcdef0123456789abcdef01",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "I want to send 2000 dai to 0xdeadbeef0123456789deadbeef0123456789dead on Taiko.",
+    "completion": {
+    "action": "transfer",
+    "token1": "DAI",
+    "chain": "Taiko",
+    "address": "0xdeadbeef0123456789deadbeef0123456789dead",
+    "amount": "2000"
+    }
+    },
+    {
+    "prompt": "Transfer 0.1 ETH to 0x9876543210987654321098765432109876543210 on Ethereum!",
+    "completion": {
+    "action": "transfer",
+    "token1": "ETH",
+    "chain": "Ethereum",
+    "address": "0x9876543210987654321098765432109876543210",
+    "amount": "0.1"
+    }
+    },
+    {
+    "prompt": "Please help me send 1000 DAI to 0xdeadbeef0123456789deadbeef0123456789dead on Gnosis.",
+    "completion": {
+    "action": "transfer",
+    "token1": "DAI",
+    "chain": "Gnosis",
+    "address": "0xdeadbeef0123456789deadbeef0123456789dead",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "I need to transfer 500 USDT to 0x5555555555555555555555555555555555555555 on Optimism.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDT",
+    "chain": "Optimism",
+    "address": "0x5555555555555555555555555555555555555555",
+    "amount": "500"
+    }
+    },
+    {
+    "prompt": "Please transfer 200 LINK to 0x5432109876543210987654321098765432109876 on Gnosis.",
+    "completion": {
+    "action": "transfer",
+    "token1": "LINK",
+    "chain": "Gnosis",
+    "address": "0x5432109876543210987654321098765432109876",
+    "amount": "200"
+    }
+    },
+    {
+    "prompt": "Transfer 0.5 ETH to 0x1234567890abcdefABCDEF1234567890abcdefab on Optimism!",
+    "completion": {
+    "action": "transfer",
+    "token1": "ETH",
+    "chain": "Optimism",
+    "address": "0x1234567890abcdefABCDEF1234567890abcdefab",
+    "amount": "0.5"
+    }
+    },
+    {
+    "prompt": "I want to send 1000 USDC to 0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef on Ethereum.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDC",
+    "chain": "Ethereum",
+    "address": "0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef",
+    "amount": "1000"
+    }
+    },
+    
+    {
+    "prompt": "Can you help me transfer 500 DAI to address 0x9999999999999999999999999999999999999999 on Taiko?",
+    "completion": {
+    "action": "transfer",
+    "token1": "DAI",
+    "chain": "Taiko",
+    "address": "0x9999999999999999999999999999999999999999",
+    "amount": "500"
+    }
+    },
+    {
+    "prompt": "Please transfer 100 USDT to 0xabcdeABCDEabcdeABCDEabcdeABCDEabcdeABCDE on Ethereum.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDT",
+    "chain": "Ethereum",
+    "address": "0xabcdeABCDEabcdeABCDEabcdeABCDEabcdeABCDE",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "Transfer 0.2 ETH to 0x9876543210ABCDEF09876543210ABCDEF09876543 on Optimism!",
+    "completion": {
+    "action": "transfer",
+    "token1": "ETH",
+    "chain": "Optimism",
+    "address": "0x9876543210ABCDEF09876543210ABCDEF09876543",
+    "amount": "0.2"
+    }
+    },
+    
+    {
+    "prompt": "I want to send 500 DAI to 0xdeadbeefDEADBEEFdeadbeefDEADBEEFdeadbeef on Taiko",
+    "completion": {
+    "action": "transfer",
+    "token1": "DAI",
+    "chain": "Taiko",
+    "address": "0xdeadbeefDEADBEEFdeadbeefDEADBEEFdeadbeef",
+    "amount": "500"
+    }
+    },
+    {
+    "prompt": "Can you help me transfer 1000 USDC to address 0x9999999999999999999999999999999999999999 on Chiado?",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDC",
+    "chain": "Chiado",
+    "address": "0x9999999999999999999999999999999999999999",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "Please transfer 100 USDT to the address 0xabcdeABCDEabcdeABCDEabcdeABCDEabcdeABCDE on Ethereum network.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDT",
+    "chain": "Ethereum",
+    "address": "0xabcdeABCDEabcdeABCDEabcdeABCDEabcdeABCDE",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "Could you assist me in sending 0.2 ETH to the wallet 0x9876543210ABCDEF09876543210ABCDEF09876543 on Optimism?",
+    "completion": {
+    "action": "transfer",
+    "token1": "ETH",
+    "chain": "Optimism",
+    "address": "0x9876543210ABCDEF09876543210ABCDEF09876543",
+    "amount": "0.2"
+    }
+    },
+    {
+    "prompt": "I'd like to transfer 500 DAI to the recipient 0xdeadbeefDEADBEEFdeadbeefDEADBEEFdeadbeef on Taiko",
+    "completion": {
+    "action": "transfer",
+    "token1": "DAI",
+    "chain": "Taiko",
+    "address": "0xdeadbeefDEADBEEFdeadbeefDEADBEEFdeadbeef",
+    "amount": "500"
+    }
+    },
+    {
+    "prompt": "Kindly assist me in transferring 1000 USDC to the following address: 0x9999999999999999999999999999999999999999 on Chiado.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDC",
+    "chain": "Chiado",
+    "address": "0x9999999999999999999999999999999999999999",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "I want to transfer 100 USDT to 0xabcdeABCDEabcdeABCDEabcdeABCDEabcdeABCDE on Ethereum. Please help me with the transaction.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDT",
+    "chain": "Ethereum",
+    "address": "0xabcdeABCDEabcdeABCDEabcdeABCDEabcdeABCDE",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "Help me send 0.2 ETH to 0x9876543210ABCDEF09876543210ABCDEF09876543 on Optimism. I need to complete the transfer quickly.",
+    "completion": {
+    "action": "transfer",
+    "token1": "ETH",
+    "chain": "Optimism",
+    "address": "0x9876543210ABCDEF09876543210ABCDEF09876543",
+    "amount": "0.2"
+    }
+    },
+    {
+    "prompt": "I would like to transfer 500 DAI to 0xdeadbeefDEADBEEFdeadbeefDEADBEEFdeadbeef on Taiko. Can you assist me with that?",
+    "completion": {
+    "action": "transfer",
+    "token1": "DAI",
+    "chain": "Taiko",
+    "address": "0xdeadbeefDEADBEEFdeadbeefDEADBEEFdeadbeef",
+    "amount": "500"
+    }
+    },
+    {
+    "prompt": "Please help me transfer 1000 USDC to 0x9999999999999999999999999999999999999999 on Chiado. It's an urgent transaction.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDC",
+    "chain": "Chiado",
+    "address": "0x9999999999999999999999999999999999999999",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "I want to send 100 USDT to 0xabcdeABCDEabcdeABCDEabcdeABCDEabcdeABCDE on Ethereum. Please help me with the transaction.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDT",
+    "chain": "Ethereum",
+    "address": "0xabcdeABCDEabcdeABCDEabcdeABCDEabcdeABCDE",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "Assist me in sending 0.2 ETH to 0x9876543210ABCDEF09876543210ABCDEF09876543 on Optimism. I need to complete the transfer urgently.",
+    "completion": {
+    "action": "transfer",
+    "token1": "ETH",
+    "chain": "Optimism",
+    "address": "0x9876543210ABCDEF09876543210ABCDEF09876543",
+    "amount": "0.2"
+    }
+    },
+    {
+    "prompt": "I'd like to transfer 500 DAI to 0xdeadbeefDEADBEEFdeadbeefDEADBEEFdeadbeef on Taiko. Can you assist me with that, PLEASE",
+    "completion": {
+    "action": "transfer",
+    "token1": "DAI",
+    "chain": "Taiko",
+    "address": "0xdeadbeefDEADBEEFdeadbeefDEADBEEFdeadbeef",
+    "amount": "500"
+    }
+    },
+    {
+    "prompt": "I want to transfer 100 USDT to the address 0xabcdeABCDEabcdeABCDEabcdeABCDEabcdeABCDE on Ethereum network.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDT",
+    "chain": "Ethereum",
+    "address": "0xabcdeABCDEabcdeABCDEabcdeABCDEabcdeABCDE",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "I'd like to transfer 500 DAI to the recipient 0xdeadbeefDEADBEEFdeadbeefDEADBEEFdeadbeef on Taiko. Can you help me with that?",
+    "completion": {
+    "action": "transfer",
+    "token1": "DAI",
+    "chain": "Taiko",
+    "address": "0xdeadbeefDEADBEEFdeadbeefDEADBEEFdeadbeef",
+    "amount": "500"
+    }
+    },
+    {
+    "prompt": "Please assist me in transferring 1000 USDC to the following address: 0x9999999999999999999999999999999999999999 on Chiado.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDC",
+    "chain": "Chiado",
+    "address": "0x9999999999999999999999999999999999999999",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "I want to send 100 USDT to the address 0xabcdeABCDEabcdeABCDEabcdeABCDEabcdeABCDE on Ethereum network.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDT",
+    "chain": "Ethereum",
+    "address": "0xabcdeABCDEabcdeABCDEabcdeABCDEabcdeABCDE",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "I want to send 50 USDT to the address 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Ethereum.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDT",
+    "chain": "Ethereum",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "Assist me in transferring 0.1 ETH to the wallet 0x98765ABCDEF0123456789ABCDEF0123456789ABC on Optimism.",
+    "completion": {
+    "action": "transfer",
+    "token1": "ETH",
+    "chain": "Optimism",
+    "address": "0x98765ABCDEF0123456789ABCDEF0123456789ABC",
+    "amount": "0.1"
+    }
+    },
+    {
+    "prompt": "Please transfer 50 USDT to 0xFe8e15ae884524eFfc2fe91dF6f5BA40D8533A92 on Gnosis.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDT",
+    "amount": "50",
+    "address": "0xFe8e15ae884524eFfc2fe91dF6f5BA40D8533A92",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "I want to send 10 USDC to address 0x1234567890123456789012345678901234567890 on Chiado.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDC",
+    "amount": "10",
+    "address": "0x1234567890123456789012345678901234567890",
+    "chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "Please transfer 20 ETH to 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Taiko.",
+    "completion": {
+    "action": "transfer",
+    "token1": "ETH",
+    "amount": "20",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "I'd like to send 2000 DAI to 0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456 on Taiko. Please help me with the transaction.",
+    "completion": {
+    "action": "transfer",
+    "token1": "DAI",
+    "chain": "Taiko",
+    "address": "0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456",
+    "amount": "2000"
+    }
+    },
+    {
+    "prompt": "Transfer 500 USDT to 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Optimism. Can you assist me with the transaction?",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDT",
+    "chain": "Optimism",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "amount": "500"
+    }
+    },
+    {
+    "prompt": "Please help me transfer 100 ETH to 0x1234567890123456789012345678901234567890 on Chiado. It's an urgent transaction.",
+    "completion": {
+    "action": "transfer",
+    "token1": "ETH",
+    "chain": "Chiado",
+    "address": "0x1234567890123456789012345678901234567890",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "I would like to send 50 LINK to 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Gnosis. Can you help me with that, please?",
+    "completion": {
+    "action": "transfer",
+    "token1": "LINK",
+    "chain": "Gnosis",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "Transfer 1000 USDC to 0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456 on Taiko. Please assist me with the transaction.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDC",
+    "chain": "Taiko",
+    "address": "0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "I want to send 200 wBTC to 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Chiado. Can you guide me through the process?",
+    "completion": {
+    "action": "transfer",
+    "token1": "wBTC",
+    "chain": "Chiado",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "amount": "200"
+    }
+    },
+    {
+    "prompt": "I need to send 1000 USDT to 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF on Ethereum. Please assist me with the transaction.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDT",
+    "chain": "Ethereum",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "Transfer 50 LINK to 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Gnosis. Can you help me with that?",
+    "completion": {
+    "action": "transfer",
+    "token1": "LINK",
+    "chain": "Gnosis",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "Please assist me in sending 2000 DAI to 0x1234567890123456789012345678901234567890 on Chiado. It's a time-sensitive transfer.",
+    "completion": {
+    "action": "transfer",
+    "token1": "DAI",
+    "chain": "Chiado",
+    "address": "0x1234567890123456789012345678901234567890",
+    "amount": "2000"
+    }
+    },
+    {
+    "prompt": "I want to transfer 500 ETH to 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Taiko. Can you guide me through the process?",
+    "completion": {
+    "action": "transfer",
+    "token1": "ETH",
+    "chain": "Taiko",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "amount": "500"
+    }
+    },
+    {
+    "prompt": "Transfer 100 USDC to 0x1234567890123456789012345678901234567890 on Gnosis. Please help me with the transaction.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDC",
+    "chain": "Gnosis",
+    "address": "0x1234567890123456789012345678901234567890",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "Hey Brian! Can you assist me in sending 200 wBTC to 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF on Optimism? It's an urgent transfer.",
+    "completion": {
+    "action": "transfer",
+    "token1": "wBTC",
+    "chain": "Optimism",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF",
+    "amount": "200"
+    }
+    },
+    {
+    "prompt": "Hey Brian, I need to transfer 1000 DAI to 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Ethereum. Please proceed with the transaction.",
+    "completion": {
+    "action": "transfer",
+    "token1": "DAI",
+    "chain": "Ethereum",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "Hey Brian, I want to send 50 DAI to 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF on Taiko. Can you assist me with that, please?",
+    "completion": {
+    "action": "transfer",
+    "token1": "DAI",
+    "chain": "Taiko",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "Please help me transfer 1000 USDT to 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Gnosis. It's an important transaction.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDT",
+    "chain": "Gnosis",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "Transfer 200 LINK to 0x1234567890123456789012345678901234567890 on Chiado. Can you guide me through the process?",
+    "completion": {
+    "action": "transfer",
+    "token1": "LINK",
+    "chain": "Chiado",
+    "address": "0x1234567890123456789012345678901234567890",
+    "amount": "200"
+    }
+    },
+    {
+    "prompt": "I want to send 500 ETH to 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Taiko. Please assist me with the transfer.",
+    "completion": {
+    "action": "transfer",
+    "token1": "ETH",
+    "chain": "Taiko",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "amount": "500"
+    }
+    },
+    {
+    "prompt": "Hey Brian, can you help me transfer 100 USDC to 0x1234567890123456789012345678901234567890 on Gnosis? It's an urgent transaction.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDC",
+    "chain": "Gnosis",
+    "address": "0x1234567890123456789012345678901234567890",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "Transfer 200 wBTC to 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF on Optimism. Please proceed with the transfer.",
+    "completion": {
+    "action": "transfer",
+    "token1": "wBTC",
+    "chain": "Optimism",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF",
+    "amount": "200"
+    }
+    },
+    {
+    "prompt": "I need to send 1000 DAI to 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Ethereum. Can you assist me with that?",
+    "completion": {
+    "action": "transfer",
+    "token1": "DAI",
+    "chain": "Ethereum",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "Please transfer 50 wBTC to the address 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF on Taiko. It's an urgent transaction.",
+    "completion": {
+    "action": "transfer",
+    "token1": "wBTC",
+    "chain": "Taiko",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "I would like to send 1000 USDC to 0x1234567890123456789012345678901234567890 on Gnosis. Kindly assist me with the transfer.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDC",
+    "chain": "Gnosis",
+    "address": "0x1234567890123456789012345678901234567890",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "Transfer 200 ETH to 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Optimism. Please ensure the transaction is processed promptly.",
+    "completion": {
+    "action": "transfer",
+    "token1": "ETH",
+    "chain": "Optimism",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "amount": "200"
+    }
+    },
+    {
+    "prompt": "Can you help me send 500 DAI to the address 0x1234567890123456789012345678901234567890 on Chiado? It's an important transfer for me.",
+    "completion": {
+    "action": "transfer",
+    "token1": "DAI",
+    "chain": "Chiado",
+    "address": "0x1234567890123456789012345678901234567890",
+    "amount": "500"
+    }
+    },
+    {
+    "prompt": "I need to transfer 100 USDT to 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Ethereum. Please assist me with the transaction.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDT",
+    "chain": "Ethereum",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "Please proceed with transferring 200 LINK to 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF on Gnosis. I appreciate your assistance.",
+    "completion": {
+    "action": "transfer",
+    "token1": "LINK",
+    "chain": "Gnosis",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF",
+    "amount": "200"
+    }
+    },
+    {
+    "prompt": "Transfer 1000 ETH to 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Taiko. Kindly complete the transaction at your earliest convenience.",
+    "completion": {
+    "action": "transfer",
+    "token1": "ETH",
+    "chain": "Taiko",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "I want to send 50 UNI to 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF on Optimism. Please assist me in completing the transfer.",
+    "completion": {
+    "action": "transfer",
+    "token1": "UNI",
+    "chain": "Optimism",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF",
+    "amount": "50"
+    }
+    },
+    {
+    "prompt": "Transfer 1000 USDT to the wallet address 0x1234567890123456789012345678901234567890 on Ethereum. It's an urgent transaction, please process it quickly.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDT",
+    "chain": "Ethereum",
+    "address": "0x1234567890123456789012345678901234567890",
+    "amount": "1000"
+    }
+    },
+    {
+    "prompt": "Please help me send 200 ETH to 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Chiado. I need this transaction to be completed as soon as possible.",
+    "completion": {
+    "action": "transfer",
+    "token1": "ETH",
+    "chain": "Chiado",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "amount": "200"
+    }
+    },
+    {
+    "prompt": "Can you assist me in transferring 500 DAI to 0x1234567890123456789012345678901234567890 on Taiko? This transfer is important, and I appreciate your help.",
+    "completion": {
+    "action": "transfer",
+    "token1": "DAI",
+    "chain": "Taiko",
+    "address": "0x1234567890123456789012345678901234567890",
+    "amount": "500"
+    }
+    },
+    {
+    "prompt": "I would like to send 100 USDT to the address 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Gnosis. Please proceed with the transaction.",
+    "completion": {
+    "action": "transfer",
+    "token1": "USDT",
+    "chain": "Gnosis",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "amount": "100"
+    }
+    },
+    {
+    "prompt": "Transfer 200 LINK to 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF on Ethereum. Please help me with this transfer.",
+    "completion": {
+    "action": "transfer",
+    "token1": "LINK",
+    "chain": "Ethereum",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF",
+    "amount": "200"
+    }
+    },
+    {
+    "prompt": "Please assist me in sending 1000 ETH to 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Gnosis. This transfer is time-sensitive.",
+    "completion": {
+    "action": "transfer",
+    "token1": "ETH",
+    "chain": "Gnosis",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "amount": "1000"
+    }
+    }
+    
+    
+    ]
+    
+    
+    

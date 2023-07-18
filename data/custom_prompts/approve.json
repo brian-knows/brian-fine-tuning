@@ -1,0 +1,808 @@
+[
+    {
+    "prompt": "Please approve the spending of 10 GNO to brian.eth on Ethereum",
+    "completion": {
+    "action": "approve",
+    "token1": "GNO",
+    "address": "brian.eth",
+    "amount": "10",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "I want to approve 100 USDT for spending to 0x1234567890123456789012345678901234567890 on Gnosis.",
+    "completion": {
+    "action": "approve",
+    "token1": "USDT",
+    "amount": "100",
+    "address": "0x1234567890123456789012345678901234567890",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "Please approve 50 wBTC for transfer to 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Taiko.",
+    "completion": {
+    "action": "approve",
+    "token1": "wBTC",
+    "amount": "50",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "Can you help me approve 10 ETH for spending to 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF on Chiado?",
+    "completion": {
+    "action": "approve",
+    "token1": "ETH",
+    "amount": "10",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF",
+    "chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "I want to approve 1000 DAI spending to 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Ethereum.",
+    "completion": {
+    "action": "approve",
+    "token1": "DAI",
+    "amount": "1000",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "Can you help me approve 500 USDT for transfer to 0x1234567890123456789012345678901234567890 on Gnosis?",
+    "completion": {
+    "action": "approve",
+    "token1": "USDT",
+    "amount": "500",
+    "address": "0x1234567890123456789012345678901234567890",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "I would like to approve 200 ETH spending to 0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456 on Taiko.",
+    "completion": {
+    "action": "approve",
+    "token1": "ETH",
+    "amount": "200",
+    "address": "0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456",
+    "chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "I want to approve 50 DAI for spending to 0xabcdef0123456789abcdef0123456789abcdef01 on Gnosis.",
+    "completion": {
+    "action": "approve",
+    "token1": "DAI",
+    "amount": "50",
+    "address": "0xabcdef0123456789abcdef0123456789abcdef01",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "Please approve 1000 USDC for transfer to 0x9876543210987654321098765432109876543210 on Chiado.",
+    "completion": {
+    "action": "approve",
+    "token1": "USDC",
+    "amount": "1000",
+    "address": "0x9876543210987654321098765432109876543210",
+    "chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "Can you assist me in approving 2000 wBTC for spending to 0x1234567890ABCDEFABCDEF1234567890ABCDEFAB on Taiko?",
+    "completion": {
+    "action": "approve",
+    "token1": "wBTC",
+    "amount": "2000",
+    "address": "0x1234567890ABCDEFABCDEF1234567890ABCDEFAB",
+    "chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "I would like to approve 500 UNI for transfer to 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Gnosis.",
+    "completion": {
+    "action": "approve",
+    "token1": "UNI",
+    "amount": "500",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "Please help me approve 100 LINK for spending to 0x9876543210ABCDEF09876543210ABCDEF09876543 on Taiko.",
+    "completion": {
+    "action": "approve",
+    "token1": "LINK",
+    "amount": "100",
+    "address": "0x9876543210ABCDEF09876543210ABCDEF09876543",
+    "chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "Can you guide me through approving 200 ETH for transfer to 0xabcdef0123456789abcdef0123456789abcdef01 on Chiado?",
+    "completion": {
+    "action": "approve",
+    "token1": "ETH",
+    "amount": "200",
+    "address": "0xabcdef0123456789abcdef0123456789abcdef01",
+    "chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "I want to approve 1000 USDT for spending to 0x1234567890ABCDEFABCDEF1234567890ABCDEFAB on Gnosis.",
+    "completion": {
+    "action": "approve",
+    "token1": "USDT",
+    "amount": "1000",
+    "address": "0x1234567890ABCDEFABCDEF1234567890ABCDEFAB",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "I need to approve the transfer of 1000 USDC to the address 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Gnosis.",
+    "completion": {
+    "action": "approve",
+    "token1": "USDC",
+    "amount": "1000",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "Approve spending 200 ETH to send to 0x1234567890123456789012345678901234567890 on Ethereum.",
+    "completion": {
+    "action": "approve",
+    "token1": "ETH",
+    "amount": "200",
+    "address": "0x1234567890123456789012345678901234567890",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "Allow transferring 50 wBTC to 0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456 on Taiko.",
+    "completion": {
+    "action": "approve",
+    "token1": "wBTC",
+    "amount": "50",
+    "address": "0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456",
+    "chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "Approve the spending of 100 DAI to be sent to 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF on Chiado.",
+    "completion": {
+    "action": "approve",
+    "token1": "DAI",
+    "amount": "100",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF",
+    "chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "I want to grant permission to transfer 500 LINK to the account with address 0xabcdef0123456789abcdef0123456789abcdef01 on Optimism.",
+    "completion": {
+    "action": "approve",
+    "token1": "LINK",
+    "amount": "500",
+    "address": "0xabcdef0123456789abcdef0123456789abcdef01",
+    "chain": "Optimism"
+    }
+    },
+    {
+    "prompt": "Allow the spending of 50 ETH to send it to the address 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF on Taiko.",
+    "completion": {
+    "action": "approve",
+    "token1": "ETH",
+    "amount": "50",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF",
+    "chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "Authorize the transfer of 1000 USDC to the destination address 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Gnosis.",
+    "completion": {
+    "action": "approve",
+    "token1": "USDC",
+    "amount": "1000",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "Grant permission to send 200 ETH to the designated wallet 0x1234567890123456789012345678901234567890 on Ethereum.",
+    "completion": {
+    "action": "approve",
+    "token1": "ETH",
+    "amount": "200",
+    "address": "0x1234567890123456789012345678901234567890",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "Approve the transfer of 50 wBTC to the specified recipient 0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456 on Taiko.",
+    "completion": {
+    "action": "approve",
+    "token1": "wBTC",
+    "amount": "50",
+    "address": "0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456",
+    "chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "Grant the ability to transfer 100 DAI to the provided address 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF on Chiado.",
+    "completion": {
+    "action": "approve",
+    "token1": "DAI",
+    "amount": "100",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF",
+    "chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "Authorize the spending of 500 LINK to be sent to the account with address 0xabcdef0123456789abcdef0123456789abcdef01 on Optimism.",
+    "completion": {
+    "action": "approve",
+    "token1": "LINK",
+    "amount": "500",
+    "address": "0xabcdef0123456789abcdef0123456789abcdef01",
+    "chain": "Optimism"
+    }
+    },
+    {
+    "prompt": "Approve the transfer of 1000 USDT to the wallet 0x1234567890123456789012345678901234567890 on Gnosis.",
+    "completion": {
+    "action": "approve",
+    "token1": "USDT",
+    "amount": "1000",
+    "address": "0x1234567890123456789012345678901234567890",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "Grant permission to send 50 ETH to the address 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF on Taiko.",
+    "completion": {
+    "action": "approve",
+    "token1": "ETH",
+    "amount": "50",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF",
+    "chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "Allow the transfer of 5000 USDC to the account with address 0xabcdef0123456789abcdef0123456789abcdef01 on Optimism.",
+    "completion": {
+    "action": "approve",
+    "token1": "USDC",
+    "amount": "5000",
+    "address": "0xabcdef0123456789abcdef0123456789abcdef01",
+    "chain": "Optimism"
+    }
+    },
+    {
+    "prompt": "I want to approve 1000 wBTC for spending to 0x1234567890ABCDEFABCDEF1234567890ABCDEFAB on Chiado.",
+    "completion": {
+    "action": "approve",
+    "token1": "wBTC",
+    "amount": "1000",
+    "address": "0x1234567890ABCDEFABCDEF1234567890ABCDEFAB",
+    "chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "Grant permission to transfer 200 DAI to 0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456 on Taiko.",
+    "completion": {
+    "action": "approve",
+    "token1": "DAI",
+    "amount": "200",
+    "address": "0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456",
+    "chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "I would like to approve the spending of 50 ETH to 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF on Gnosis.",
+    "completion": {
+    "action": "approve",
+    "token1": "ETH",
+    "amount": "50",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "Please approve the transfer of 100 LINK to 0x9876543210ABCDEF09876543210ABCDEF09876543 on Taiko.",
+    "completion": {
+    "action": "approve",
+    "token1": "LINK",
+    "amount": "100",
+    "address": "0x9876543210ABCDEF09876543210ABCDEF09876543",
+    "chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "Allow the spending of 2000 USDT to be sent to 0x1234567890123456789012345678901234567890 on Gnosis.",
+    "completion": {
+    "action": "approve",
+    "token1": "USDT",
+    "amount": "2000",
+    "address": "0x1234567890123456789012345678901234567890",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "Grant permission to transfer 50 wBTC to the address 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Chiado.",
+    "completion": {
+    "action": "approve",
+    "token1": "wBTC",
+    "amount": "50",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "I need to grant permission for the transfer of 5000 USDC to the account with address 0x1234567890123456789012345678901234567890 on Gnosis.",
+    "completion": {
+    "action": "approve",
+    "token1": "USDC",
+    "amount": "5000",
+    "address": "0x1234567890123456789012345678901234567890",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "Approve the spending of 1000 wBTC to the recipient with address 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Taiko.",
+    "completion": {
+    "action": "approve",
+    "token1": "wBTC",
+    "amount": "1000",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "Grant permission to transfer 200 DAI to the wallet 0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456 on Chiado.",
+    "completion": {
+    "action": "approve",
+    "token1": "DAI",
+    "amount": "200",
+    "address": "0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456",
+    "chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "I would like to approve the transfer of 50 ETH to the address 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF on Gnosis.",
+    "completion": {
+    "action": "approve",
+    "token1": "ETH",
+    "amount": "50",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "Please assist me in approving the spending of 100 LINK to the account 0x9876543210ABCDEF09876543210ABCDEF09876543 on Taiko.",
+    "completion": {
+    "action": "approve",
+    "token1": "LINK",
+    "amount": "100",
+    "address": "0x9876543210ABCDEF09876543210ABCDEF09876543",
+    "chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "Hey Brian! Allow the transfer of 2000 USDT to the recipient with address 0xabcdef0123456789abcdef0123456789abcdef01 on Gnosis.",
+    "completion": {
+    "action": "approve",
+    "token1": "USDT",
+    "amount": "2000",
+    "address": "0xabcdef0123456789abcdef0123456789abcdef01",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "Hey Brian! Grant permission for the transfer of 50 wBTC to the wallet 0x1234567890123456789012345678901234567890 on Chiado.",
+    "completion": {
+    "action": "approve",
+    "token1": "wBTC",
+    "amount": "50",
+    "address": "0x1234567890123456789012345678901234567890",
+    "chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "Grant permission to send 500 USDC to the account 0x1234567890123456789012345678901234567890 on Gnosis.",
+    "completion": {
+    "action": "approve",
+    "token1": "USDC",
+    "amount": "500",
+    "address": "0x1234567890123456789012345678901234567890",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "I would like to approve the transfer of 1000 wBTC to the recipient address 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Taiko.",
+    "completion": {
+    "action": "approve",
+    "token1": "wBTC",
+    "amount": "1000",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "Please assist me in granting permission to transfer 200 DAI to the wallet with address 0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456 on Chiado.",
+    "completion": {
+    "action": "approve",
+    "token1": "DAI",
+    "amount": "200",
+    "address": "0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456",
+    "chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "Allow the spending of 50 ETH to be transferred to the address 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF on Gnosis.",
+    "completion": {
+    "action": "approve",
+    "token1": "ETH",
+    "amount": "50",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "I want to approve the transfer of 100 LINK to the recipient with the Ethereum address 0x9876543210ABCDEF09876543210ABCDEF09876543.",
+    "completion": {
+    "action": "approve",
+    "token1": "LINK",
+    "amount": "100",
+    "address": "0x9876543210ABCDEF09876543210ABCDEF09876543",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "Please help me approve the spending of 2000 USDT to be transferred to the wallet address 0xabcdef0123456789abcdef0123456789abcdef01 on Gnosis.",
+    "completion": {
+    "action": "approve",
+    "token1": "USDT",
+    "amount": "2000",
+    "address": "0xabcdef0123456789abcdef0123456789abcdef01",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "Grant permission to transfer 50 wBTC to the Ethereum wallet with the address 0x1234567890123456789012345678901234567890.",
+    "completion": {
+    "action": "approve",
+    "token1": "wBTC",
+    "amount": "50",
+    "address": "0x1234567890123456789012345678901234567890",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "Hey Brian! Approve the transfer of 500 USDC to the account with the Ethereum address 0x1234567890123456789012345678901234567890.",
+    "completion": {
+    "action": "approve",
+    "token1": "USDC",
+    "amount": "500",
+    "address": "0x1234567890123456789012345678901234567890",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "Hey Brian! I would like to grant permission for the transfer of 1000 wBTC to the wallet with the address 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef.",
+    "completion": {
+    "action": "approve",
+    "token1": "wBTC",
+    "amount": "1000",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "Hey Brian, Please assist me in approving the spending of 200 DAI to be transferred to the address 0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456 on Taiko.",
+    "completion": {
+    "action": "approve",
+    "token1": "DAI",
+    "amount": "200",
+    "address": "0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456",
+    "chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "Allow the transfer of 50 ETH to the recipient with the address 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF on Optimism.",
+    "completion": {
+    "action": "approve",
+    "token1": "ETH",
+    "amount": "50",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF",
+    "chain": "Optimism"
+    }
+    },
+    {
+    "prompt": "I want to approve the transfer of 100 LINK to the Ethereum address 0x9876543210ABCDEF09876543210ABCDEF09876543.",
+    "completion": {
+    "action": "approve",
+    "token1": "LINK",
+    "amount": "100",
+    "address": "0x9876543210ABCDEF09876543210ABCDEF09876543",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "Please help me approve the spending of 2000 USDT to be transferred to the wallet with the address 0xabcdef0123456789abcdef0123456789abcdef01 on Gnosis.",
+    "completion": {
+    "action": "approve",
+    "token1": "USDT",
+    "amount": "2000",
+    "address": "0xabcdef0123456789abcdef0123456789abcdef01",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "Grant permission to transfer 50 wBTC to the address 0x1234567890123456789012345678901234567890 on Chiado.",
+    "completion": {
+    "action": "approve",
+    "token1": "wBTC",
+    "amount": "50",
+    "address": "0x1234567890123456789012345678901234567890",
+    "chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "Please approve the spending of 5000 USDC to be transferred to the Ethereum address 0x1234567890123456789012345678901234567890.",
+    "completion": {
+    "action": "approve",
+    "token1": "USDC",
+    "amount": "5000",
+    "address": "0x1234567890123456789012345678901234567890",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "I want to authorize the transfer of 1000 wBTC to the wallet address 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef.",
+    "completion": {
+    "action": "approve",
+    "token1": "wBTC",
+    "amount": "1000",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "Grant permission for the transfer of 200 DAI to the recipient address 0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456 on Taiko.",
+    "completion": {
+    "action": "approve",
+    "token1": "DAI",
+    "amount": "200",
+    "address": "0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456",
+    "chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "I would like to approve the spending of 50 ETH to be transferred to the account with the Ethereum address 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF.",
+    "completion": {
+    "action": "approve",
+    "token1": "ETH",
+    "amount": "50",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "Please assist me in approving the transfer of 100 LINK to the account with the address 0x9876543210ABCDEF09876543210ABCDEF09876543 on Taiko.",
+    "completion": {
+    "action": "approve",
+    "token1": "LINK",
+    "amount": "100",
+    "address": "0x9876543210ABCDEF09876543210ABCDEF09876543",
+    "chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "Allow the spending of 2000 USDT to be transferred to the wallet with the Ethereum address 0xabcdef0123456789abcdef0123456789abcdef01 on Gnosis.",
+    "completion": {
+    "action": "approve",
+    "token1": "USDT",
+    "amount": "2000",
+    "address": "0xabcdef0123456789abcdef0123456789abcdef01",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "Grant permission to transfer 50 wBTC to the wallet with the Ethereum address 0x1234567890123456789012345678901234567890 on Chiado.",
+    "completion": {
+    "action": "approve",
+    "token1": "wBTC",
+    "amount": "50",
+    "address": "0x1234567890123456789012345678901234567890",
+    "chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "Please approve the transfer of 5000 USDC to the Ethereum address 0x1234567890123456789012345678901234567890.",
+    "completion": {
+    "action": "approve",
+    "token1": "USDC",
+    "amount": "5000",
+    "address": "0x1234567890123456789012345678901234567890",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "I want to grant permission for the transfer of 1000 wBTC to the wallet with the address 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef.",
+    "completion": {
+    "action": "approve",
+    "token1": "wBTC",
+    "amount": "1000",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "I would like to approve the spending of 50 ETH to be transferred to the account with the address 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF.",
+    "completion": {
+    "action": "approve",
+    "token1": "ETH",
+    "amount": "50",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "Allow the spending of 2000 USDT to be transferred to the wallet with the address 0xabcdef0123456789abcdef0123456789abcdef01 on Gnosis.",
+    "completion": {
+    "action": "approve",
+    "token1": "USDT",
+    "amount": "2000",
+    "address": "0xabcdef0123456789abcdef0123456789abcdef01",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "Grant permission to transfer 50 wBTC to the wallet with the address 0x1234567890123456789012345678901234567890 on Chiado.",
+    "completion": {
+    "action": "approve",
+    "token1": "wBTC",
+    "amount": "50",
+    "address": "0x1234567890123456789012345678901234567890",
+    "chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "Authorize the transfer of 1000 USDC tokens to 0x1234567890123456789012345678901234567890 on Ethereum.",
+    "completion": {
+    "action": "approve",
+    "token1": "USDC",
+    "amount": "1000",
+    "address": "0x1234567890123456789012345678901234567890",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "I approve the spending of 500 DAI tokens to be transferred to the recipient address 0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456 on Chiado.",
+    "completion": {
+    "action": "approve",
+    "token1": "DAI",
+    "amount": "500",
+    "address": "0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456",
+    "chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "I would like to give permission to transfer 2000 wBTC tokens to 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Gnosis.",
+    "completion": {
+    "action": "approve",
+    "token1": "wBTC",
+    "amount": "2000",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "Approve the spending of 50 ETH tokens for transfer to 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF on Taiko.",
+    "completion": {
+    "action": "approve",
+    "token1": "ETH",
+    "amount": "50",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF",
+    "chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "Please authorize the transfer of 100 LINK tokens to the account with address 0x9876543210ABCDEF09876543210ABCDEF09876543 on Gnosis.",
+    "completion": {
+    "action": "approve",
+    "token1": "LINK",
+    "amount": "100",
+    "address": "0x9876543210ABCDEF09876543210ABCDEF09876543",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "Grant the ability to spend 2000 USDT tokens to 0xabcdef0123456789abcdef0123456789abcdef01 on Ethereum.",
+    "completion": {
+    "action": "approve",
+    "token1": "USDT",
+    "amount": "2000",
+    "address": "0xabcdef0123456789abcdef0123456789abcdef01",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "Approve the transfer of 50 wBTC tokens for spending to the wallet with address 0x1234567890123456789012345678901234567890 on Chiado.",
+    "completion": {
+    "action": "approve",
+    "token1": "wBTC",
+    "amount": "50",
+    "address": "0x1234567890123456789012345678901234567890",
+    "chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "Please approve the transfer of 1000 USDC tokens to the Ethereum address 0x1234567890123456789012345678901234567890.",
+    "completion": {
+    "action": "approve",
+    "token1": "USDC",
+    "amount": "1000",
+    "address": "0x1234567890123456789012345678901234567890",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "I authorize the spending of 500 DAI tokens to be transferred to the recipient address 0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456 on Chiado.",
+    "completion": {
+    "action": "approve",
+    "token1": "DAI",
+    "amount": "500",
+    "address": "0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456",
+    "chain": "Chiado"
+    }
+    },
+    {
+    "prompt": "I hereby grant permission for the transfer of 2000 wBTC tokens to 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Gnosis.",
+    "completion": {
+    "action": "approve",
+    "token1": "wBTC",
+    "amount": "2000",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "Approve the spending of 50 ETH tokens to be transferred to 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF on Taiko.",
+    "completion": {
+    "action": "approve",
+    "token1": "ETH",
+    "amount": "50",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF",
+    "chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "Please authorize the transfer of 100 LINK tokens to the account with the address 0x9876543210ABCDEF09876543210ABCDEF09876543 on Gnosis.",
+    "completion": {
+    "action": "approve",
+    "token1": "LINK",
+    "amount": "100",
+    "address": "0x9876543210ABCDEF09876543210ABCDEF09876543",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "Grant the ability to spend 2000 USDT tokens to the wallet with the address 0xabcdef0123456789abcdef0123456789abcdef01 on Ethereum.",
+    "completion": {
+    "action": "approve",
+    "token1": "USDT",
+    "amount": "2000",
+    "address": "0xabcdef0123456789abcdef0123456789abcdef01",
+    "chain": "Ethereum"
+    }
+    }
+    
+    
+]
+    
+    
+    
+    

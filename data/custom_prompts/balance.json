@@ -1,0 +1,808 @@
+[
+    {
+    "prompt": "What is the current balance of 0x1234567890123456789012345678901234567890 in UNI on Gnosis?",
+    "completion": {
+    "action": "balance",
+    "token1": "UNI",
+    "chain": "Gnosis",
+    "address": "0x1234567890123456789012345678901234567890"
+    }
+    },
+    {
+    "prompt": "Check the USDT balance of 0x1234567890123456789012345678901234567890 on Chiado.",
+    "completion": {
+    "action": "balance",
+    "token1": "USDT",
+    "chain": "Chiado",
+    "address": "0x1234567890123456789012345678901234567890"
+    }
+    },
+    {
+    "prompt": "What's the current balance of 0x1234567890123456789012345678901234567890 in UNI on Gnosis?",
+    "completion": {
+    "action": "balance",
+    "token1": "UNI",
+    "chain": "Gnosis",
+    "address": "0x1234567890123456789012345678901234567890"
+    }
+    },
+    {
+    "prompt": "Check the USDC balance of 0x1234567890123456789012345678901234567890 on Chiado.",
+    "completion": {
+    "action": "balance",
+    "token1": "USDC",
+    "chain": "Chiado",
+    "address": "0x1234567890123456789012345678901234567890"
+    }
+    },
+    {
+    "prompt": "What's the current balance of 0x0123456789abcdef0123456789abcdef01234567 in UNI on Gnosis?",
+    "completion": {
+    "action": "balance",
+    "token1": "UNI",
+    "chain": "Gnosis",
+    "address": "0x0123456789abcdef0123456789abcdef01234567"
+    }
+    },
+    {
+    "prompt": "Check the USDC balance of 0x8888888888888888888888888888888888888888 on Chiado.",
+    "completion": {
+    "action": "balance",
+    "token1": "USDC",
+    "chain": "Chiado",
+    "address": "0x8888888888888888888888888888888888888888"
+    }
+    },
+    {
+    "prompt": "What's the current balance of 0x0123456789abcdef0123456789abcdef01234567 in UNI on Ethereum?",
+    "completion": {
+    "action": "balance",
+    "token1": "UNI",
+    "chain": "Ethereum",
+    "address": "0x0123456789abcdef0123456789abcdef01234567"
+    }
+    },
+    {
+    "prompt": "Check the USDC balance of 0x8888888888888888888888888888888888888888 on Optimism.",
+    "completion": {
+    "action": "balance",
+    "token1": "USDC",
+    "chain": "Optimism",
+    "address": "0x8888888888888888888888888888888888888888"
+    }
+    },
+    {
+    "prompt": "What's the balance of 0x0123456789abcdef0123456789abcdef01234567 in UNI on Chiado?",
+    "completion": {
+    "action": "balance",
+    "token1": "UNI",
+    "chain": "Chiado",
+    "address": "0x0123456789abcdef0123456789abcdef01234567"
+    }
+    },
+    {
+    "prompt": "Check the USDC balance of 0x8888888888888888888888888888888888888888 on Taiko.",
+    "completion": {
+    "action": "balance",
+    "token1": "USDC",
+    "chain": "Taiko",
+    "address": "0x8888888888888888888888888888888888888888"
+    }
+    },
+    {
+    "prompt": "What's the current balance of 0x8888888888888888888888888888888888888888 in USDT on Gnosis?",
+    "completion": {
+    "action": "balance",
+    "token1": "USDT",
+    "chain": "Gnosis",
+    "address": "0x8888888888888888888888888888888888888888"
+    }
+    },
+    {
+    "prompt": "Check the wBTC balance of 0x0123456789abcdef0123456789abcdef01234567 on Chiado.",
+    "completion": {
+    "action": "balance",
+    "token1": "wBTC",
+    "chain": "Chiado",
+    "address": "0x0123456789abcdef0123456789abcdef01234567"
+    }
+    },
+    {
+    "prompt": "What's the balance of 0x8888888888888888888888888888888888888888 in UNI on Ethereum?",
+    "completion": {
+    "action": "balance",
+    "token1": "UNI",
+    "chain": "Ethereum",
+    "address": "0x8888888888888888888888888888888888888888"
+    }
+    },
+    {
+    "prompt": "Check the wBTC balance of 0x0123456789ABCDEF0123456789ABCDEF01234567 on Optimism.",
+    "completion": {
+    "action": "balance",
+    "token1": "wBTC",
+    "chain": "Optimism",
+    "address": "0x0123456789ABCDEF0123456789ABCDEF01234567"
+    }
+    },
+    {
+    "prompt": "What is the current balance of 0x8888888888888888888888888888888888888888 in UNI on Ethereum network?",
+    "completion": {
+    "action": "balance",
+    "token1": "UNI",
+    "chain": "Ethereum",
+    "address": "0x8888888888888888888888888888888888888888"
+    }
+    },
+    {
+    "prompt": "I'm interested to know the balance of wBTC for the wallet 0x0123456789ABCDEF0123456789ABCDEF01234567 on Optimism.",
+    "completion": {
+    "action": "balance",
+    "token1": "wBTC",
+    "chain": "Optimism",
+    "address": "0x0123456789ABCDEF0123456789ABCDEF01234567"
+    }
+    },
+    {
+    "prompt": "What's the current balance of 0x8888888888888888888888888888888888888888 in UNI on Ethereum? I need to check the account.",
+    "completion": {
+    "action": "balance",
+    "token1": "UNI",
+    "chain": "Ethereum",
+    "address": "0x8888888888888888888888888888888888888888"
+    }
+    },
+    {
+    "prompt": "Could you check the wBTC balance of 0x0123456789ABCDEF0123456789ABCDEF01234567 on Optimism? I need the information for auditing purposes.",
+    "completion": {
+    "action": "balance",
+    "token1": "wBTC",
+    "chain": "Optimism",
+    "address": "0x0123456789ABCDEF0123456789ABCDEF01234567"
+    }
+    },
+    {
+    "prompt": "What's the current balance of 0x8888888888888888888888888888888888888888 in UNI on Ethereum? I need to check the account balance.",
+    "completion": {
+    "action": "balance",
+    "token1": "UNI",
+    "chain": "Ethereum",
+    "address": "0x8888888888888888888888888888888888888888"
+    }
+    },
+    {
+    "prompt": "What is the current balance of 0x8888888888888888888888888888888888888888 in UNI on Ethereum network? I need to check the account balance.",
+    "completion": {
+    "action": "balance",
+    "token1": "UNI",
+    "chain": "Ethereum",
+    "address": "0x8888888888888888888888888888888888888888"
+    }
+    },
+    {
+    "prompt": "I'm interested in knowing the balance of wBTC for the wallet 0x0123456789ABCDEF0123456789ABCDEF01234567 on Optimism. Can you provide me with the details?",
+    "completion": {
+    "action": "balance",
+    "token1": "wBTC",
+    "chain": "Optimism",
+    "address": "0x0123456789ABCDEF0123456789ABCDEF01234567"
+    }
+    },
+    {
+    "prompt": "What is the balance of 0x3293Ae42F0bda8C57492d4e99eF96128Ee2a1c0a in USDC on Gnosis?",
+    "completion": {
+    "action": "balance",
+    "token1": "USDC",
+    "chain": "Gnosis",
+    "address": "0x3293Ae42F0bda8C57492d4e99eF96128Ee2a1c0a"
+    }
+    },
+    {
+    "prompt": "Check the ETH balance of 0x3293Ae42F0bda8C57492d4e99eF96128Ee2a1c0a on Chiado.",
+    "completion": {
+    "action": "balance",
+    "token1": "ETH",
+    "chain": "Chiado",
+    "address": "0x3293Ae42F0bda8C57492d4e99eF96128Ee2a1c0a"
+    }
+    },
+    {
+    "prompt": "What is the balance of 0x1234567890123456789012345678901234567890 in UNI on Gnosis?",
+    "completion": {
+    "action": "balance",
+    "token1": "UNI",
+    "chain": "Gnosis",
+    "address": "0x1234567890123456789012345678901234567890"
+    }
+    },
+    {
+    "prompt": "Can you check the balance of 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef in wBTC on Taiko?",
+    "completion": {
+    "action": "balance",
+    "token1": "wBTC",
+    "chain": "Taiko",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef"
+    }
+    },
+    {
+    "prompt": "I want to know the balance of 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF in USDT on Chiado.",
+    "completion": {
+    "action": "balance",
+    "token1": "USDT",
+    "chain": "Chiado",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF"
+    }
+    },
+    {
+    "prompt": "What is the balance of 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef in ETH on Ethereum?",
+    "completion": {
+    "action": "balance",
+    "token1": "ETH",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef",
+    "chain": "Ethereum"
+    }
+    },
+    {
+    "prompt": "Can you tell me the balance of 0x1234567890123456789012345678901234567890 in USDT on Gnosis?",
+    "completion": {
+    "action": "balance",
+    "token1": "USDT",
+    "address": "0x1234567890123456789012345678901234567890",
+    "chain": "Gnosis"
+    }
+    },
+    {
+    "prompt": "I would like to know the total balance of 0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456 in DAI on Taiko.",
+    "completion": {
+    "action": "balance",
+    "token1": "DAI",
+    "address": "0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456",
+    "chain": "Taiko"
+    }
+    },
+    {
+    "prompt": "Please check the balance of 0x9876543210ABCDEF09876543210ABCDEF09876543 in ETH on Optimism.",
+    "completion": {
+    "action": "balance",
+    "token1": "ETH",
+    "chain": "Optimism",
+    "address": "0x9876543210ABCDEF09876543210ABCDEF09876543"
+    }
+    },
+    
+    {
+    "prompt": "I want to know the current balance of 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef in wBTC on Taiko.",
+    "completion": {
+    "action": "balance",
+    "token1": "wBTC",
+    "chain": "Taiko",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef"
+    }
+    },
+    
+    {
+    "prompt": "Check the DAI balance of 0x0123456789ABCDEF0123456789ABCDEF01234567 on Optimism.",
+    "completion": {
+    "action": "balance",
+    "token1": "DAI",
+    "chain": "Optimism",
+    "address": "0x0123456789ABCDEF0123456789ABCDEF01234567"
+    }
+    },
+    
+    {
+    "prompt": "What is the current balance of 0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456 in USDC on Taiko?",
+    "completion": {
+    "action": "balance",
+    "token1": "USDC",
+    "chain": "Taiko",
+    "address": "0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456"
+    }
+    },
+    
+    {
+    "prompt": "I would like to check the balance of 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF in LINK on Gnosis.",
+    "completion": {
+    "action": "balance",
+    "token1": "LINK",
+    "chain": "Gnosis",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF"
+    }
+    },
+    {
+    "prompt": "Please provide the current balance of 0x9876543210ABCDEF09876543210ABCDEF09876543 in USDT on Chiado.",
+    "completion": {
+    "action": "balance",
+    "token1": "USDT",
+    "chain": "Chiado",
+    "address": "0x9876543210ABCDEF09876543210ABCDEF09876543"
+    }
+    },
+    
+    {
+    "prompt": "Check the ETH balance of 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Taiko.",
+    "completion": {
+    "action": "balance",
+    "token1": "ETH",
+    "chain": "Taiko",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef"
+    }
+    },
+    
+    {
+    "prompt": "What is the balance of 0x0123456789ABCDEF0123456789ABCDEF01234567 in DAI on Optimism?",
+    "completion": {
+    "action": "balance",
+    "token1": "DAI",
+    "chain": "Optimism",
+    "address": "0x0123456789ABCDEF0123456789ABCDEF01234567"
+    }
+    },
+    
+    {
+    "prompt": "I want to know the current balance of 0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456 in wBTC on Gnosis.",
+    "completion": {
+    "action": "balance",
+    "token1": "wBTC",
+    "chain": "Gnosis",
+    "address": "0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456"
+    }
+    },
+    
+    {
+    "prompt": "Please check the balance of 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF in UNI on Taiko.",
+    "completion": {
+    "action": "balance",
+    "token1": "UNI",
+    "chain": "Taiko",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF"
+    }
+    },
+    {
+    "prompt": "What is the current balance of 0x9999999999999999999999999999999999999999 in USDC on Chiado?",
+    "completion": {
+    "action": "balance",
+    "token1": "USDC",
+    "chain": "Chiado",
+    "address": "0x9999999999999999999999999999999999999999"
+    }
+    },
+    
+    {
+    "prompt": "Can you provide the balance of 0xdeadbeefDEADBEEFdeadbeefDEADBEEFdeadbeef in wBTC on Taiko?",
+    "completion": {
+    "action": "balance",
+    "token1": "wBTC",
+    "chain": "Taiko",
+    "address": "0xdeadbeefDEADBEEFdeadbeefDEADBEEFdeadbeef"
+    }
+    },
+    
+    {
+    "prompt": "Please check the balance of 0x1234567890ABCDEF01234567890ABCDEF0123456 in DAI on Gnosis.",
+    "completion": {
+    "action": "balance",
+    "token1": "DAI",
+    "chain": "Gnosis",
+    "address": "0x1234567890ABCDEF01234567890ABCDEF0123456"
+    }
+    },
+    
+    {
+    "prompt": "What is the current balance of 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF in ETH on Taiko?",
+    "completion": {
+    "action": "balance",
+    "token1": "ETH",
+    "chain": "Taiko",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF"
+    }
+    },
+    
+    {
+    "prompt": "Can you check the balance of 0x0123456789ABCDEF0123456789ABCDEF01234567 in USDT on Optimism?",
+    "completion": {
+    "action": "balance",
+    "token1": "USDT",
+    "chain": "Optimism",
+    "address": "0x0123456789ABCDEF0123456789ABCDEF01234567"
+    }
+    },
+    {
+    "prompt": "What is the balance of 0x7777777777777777777777777777777777777777 in wBTC on Ethereum?",
+    "completion": {
+    "action": "balance",
+    "token1": "wBTC",
+    "chain": "Ethereum",
+    "address": "0x7777777777777777777777777777777777777777"
+    }
+    },
+    
+    {
+    "prompt": "Check the ETH balance of 0x8888888888888888888888888888888888888888 on Gnosis.",
+    "completion": {
+    "action": "balance",
+    "token1": "ETH",
+    "chain": "Gnosis",
+    "address": "0x8888888888888888888888888888888888888888"
+    }
+    },
+    
+    {
+    "prompt": "Can you provide the current balance of 0x9999999999999999999999999999999999999999 in USDC on Taiko?",
+    "completion": {
+    "action": "balance",
+    "token1": "USDC",
+    "chain": "Taiko",
+    "address": "0x9999999999999999999999999999999999999999"
+    }
+    },
+    
+    {
+    "prompt": "Please check the UNI balance of 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF on Chiado.",
+    "completion": {
+    "action": "balance",
+    "token1": "UNI",
+    "chain": "Chiado",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF"
+    }
+    },
+    
+    {
+    "prompt": "What is the current balance of 0x0123456789ABCDEF0123456789ABCDEF01234567 in USDT on Optimism?",
+    "completion": {
+    "action": "balance",
+    "token1": "USDT",
+    "chain": "Optimism",
+    "address": "0x0123456789ABCDEF0123456789ABCDEF01234567"
+    }
+    },
+    {
+    "prompt": "I'd like to know the balance of 0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456 in DAI on Taiko.",
+    "completion": {
+    "action": "balance",
+    "token1": "DAI",
+    "chain": "Taiko",
+    "address": "0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456"
+    }
+    },
+    
+    {
+    "prompt": "Check the current balance of 0x9999999999999999999999999999999999999999 in ETH on Gnosis.",
+    "completion": {
+    "action": "balance",
+    "token1": "ETH",
+    "chain": "Gnosis",
+    "address": "0x9999999999999999999999999999999999999999"
+    }
+    },
+    
+    {
+    "prompt": "What is the balance of 0x7777777777777777777777777777777777777777 in USDC on Ethereum?",
+    "completion": {
+    "action": "balance",
+    "token1": "USDC",
+    "chain": "Ethereum",
+    "address": "0x7777777777777777777777777777777777777777"
+    }
+    },
+    
+    {
+    "prompt": "Please provide the current balance of 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF in wBTC on Taiko.",
+    "completion": {
+    "action": "balance",
+    "token1": "wBTC",
+    "chain": "Taiko",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF"
+    }
+    },
+    
+    {
+    "prompt": "Check the ETH balance of 0x0123456789ABCDEF0123456789ABCDEF01234567 on Optimism.",
+    "completion": {
+    "action": "balance",
+    "token1": "ETH",
+    "chain": "Optimism",
+    "address": "0x0123456789ABCDEF0123456789ABCDEF01234567"
+    }
+    },
+    {
+    "prompt": "I want to check the balance of 0x8888888888888888888888888888888888888888 in USDT on Chiado.",
+    "completion": {
+    "action": "balance",
+    "token1": "USDT",
+    "chain": "Chiado",
+    "address": "0x8888888888888888888888888888888888888888"
+    }
+    },
+    
+    {
+    "prompt": "Please provide me with the current balance of 0x7777777777777777777777777777777777777777 in ETH on Gnosis.",
+    "completion": {
+    "action": "balance",
+    "token1": "ETH",
+    "chain": "Gnosis",
+    "address": "0x7777777777777777777777777777777777777777"
+    }
+    },
+    
+    {
+    "prompt": "Can you check the balance of 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF in DAI on Taiko?",
+    "completion": {
+    "action": "balance",
+    "token1": "DAI",
+    "chain": "Taiko",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF"
+    }
+    },
+    
+    {
+    "prompt": "What is the current balance of 0x0123456789ABCDEF0123456789ABCDEF01234567 in wBTC on Optimism?",
+    "completion": {
+    "action": "balance",
+    "token1": "wBTC",
+    "chain": "Optimism",
+    "address": "0x0123456789ABCDEF0123456789ABCDEF01234567"
+    }
+    },
+    
+    {
+    "prompt": "Please provide the balance of 0x9999999999999999999999999999999999999999 in LINK on Ethereum.",
+    "completion": {
+    "action": "balance",
+    "token1": "LINK",
+    "chain": "Ethereum",
+    "address": "0x9999999999999999999999999999999999999999"
+    }
+    },
+    {
+    "prompt": "Check the balance of 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef in USDC on Gnosis.",
+    "completion": {
+    "action": "balance",
+    "token1": "USDC",
+    "chain": "Gnosis",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef"
+    }
+    },
+    
+    {
+    "prompt": "What is the balance of 0x1234567890ABCDEFAbcdefABCDEFabcdefABCDEF0 in ETH on Chiado?",
+    "completion": {
+    "action": "balance",
+    "token1": "ETH",
+    "chain": "Chiado",
+    "address": "0x1234567890ABCDEFAbcdefABCDEFabcdefABCDEF0"
+    }
+    },
+    
+    {
+    "prompt": "Can you provide me with the current balance of 0xABCDEFabcdefABCDEFabcdefABCDEFabcdefABCDEF in wBTC on Taiko?",
+    "completion": {
+    "action": "balance",
+    "token1": "wBTC",
+    "chain": "Taiko",
+    "address": "0xABCDEFabcdefABCDEFabcdefABCDEFabcdefABCDEF"
+    }
+    },
+    
+    {
+    "prompt": "I want to check the balance of 0x9876543210ABCDEF09876543210ABCDEF09876543 in UNI on Optimism.",
+    "completion": {
+    "action": "balance",
+    "token1": "UNI",
+    "chain": "Optimism",
+    "address": "0x9876543210ABCDEF09876543210ABCDEF09876543"
+    }
+    },
+    
+    {
+    "prompt": "Please provide the balance of 0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456 in DAI on Gnosis.",
+    "completion": {
+    "action": "balance",
+    "token1": "DAI",
+    "chain": "Gnosis",
+    "address": "0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456"
+    }
+    },
+    {
+    "prompt": "What is the current balance of 0x3293Ae42F0bda8C57492d4e99eF96128Ee2a1c0a in USDT on Chiado?",
+    "completion": {
+    "action": "balance",
+    "token1": "USDT",
+    "chain": "Chiado",
+    "address": "0x3293Ae42F0bda8C57492d4e99eF96128Ee2a1c0a"
+    }
+    },
+    
+    {
+    "prompt": "Please check the balance of 0xdeadbeefDEADBEEFdeadbeefDEADBEEFdeadbeef in ETH on Taiko.",
+    "completion": {
+    "action": "balance",
+    "token1": "ETH",
+    "chain": "Taiko",
+    "address": "0xdeadbeefDEADBEEFdeadbeefDEADBEEFdeadbeef"
+    }
+    },
+    
+    {
+    "prompt": "I want to know the balance of 0x8888888888888888888888888888888888888888 in wBTC on Ethereum.",
+    "completion": {
+    "action": "balance",
+    "token1": "wBTC",
+    "chain": "Ethereum",
+    "address": "0x8888888888888888888888888888888888888888"
+    }
+    },
+    
+    {
+    "prompt": "Check the current balance of 0xABCDEF0123456789ABCDEF0123456789ABCDEF01 in DAI on Gnosis.",
+    "completion": {
+    "action": "balance",
+    "token1": "DAI",
+    "chain": "Gnosis",
+    "address": "0xABCDEF0123456789ABCDEF0123456789ABCDEF01"
+    }
+    },
+    
+    {
+    "prompt": "Can you provide the balance of 0x9876543210ABCDEF09876543210ABCDEF09876543 in UNI on Optimism?",
+    "completion": {
+    "action": "balance",
+    "token1": "UNI",
+    "chain": "Optimism",
+    "address": "0x9876543210ABCDEF09876543210ABCDEF09876543"
+    }
+    },
+    {
+    "prompt": "I would like to know the balance of 0x0123456789ABCDEF0123456789ABCDEF01234567 in LINK on Chiado.",
+    "completion": {
+    "action": "balance",
+    "token1": "LINK",
+    "chain": "Chiado",
+    "address": "0x0123456789ABCDEF0123456789ABCDEF01234567"
+    }
+    },
+    
+    {
+    "prompt": "Check the current balance of 0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456 in ETH on Taiko.",
+    "completion": {
+    "action": "balance",
+    "token1": "ETH",
+    "chain": "Taiko",
+    "address": "0xA1B2C3D4E5F6aBcDef1234567890aBcDEf123456"
+    }
+    },
+    
+    {
+    "prompt": "Can you provide the balance of 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef in DAI on Gnosis?",
+    "completion": {
+    "action": "balance",
+    "token1": "DAI",
+    "chain": "Gnosis",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef"
+    }
+    },
+    
+    {
+    "prompt": "What is the balance of 0x3293Ae42F0bda8C57492d4e99eF96128Ee2a1c0a in USDC on Chiado?",
+    "completion": {
+    "action": "balance",
+    "token1": "USDC",
+    "chain": "Chiado",
+    "address": "0x3293Ae42F0bda8C57492d4e99eF96128Ee2a1c0a"
+    }
+    },
+    
+    {
+    "prompt": "Please provide the balance of 0x8888888888888888888888888888888888888888 in wBTC on Ethereum.",
+    "completion": {
+    "action": "balance",
+    "token1": "wBTC",
+    "chain": "Ethereum",
+    "address": "0x8888888888888888888888888888888888888888"
+    }
+    },
+    {
+    "prompt": "I want to check the current balance of 0x9876543210ABCDEF09876543210ABCDEF09876543 in UNI on Optimism.",
+    "completion": {
+    "action": "balance",
+    "token1": "UNI",
+    "chain": "Optimism",
+    "address": "0x9876543210ABCDEF09876543210ABCDEF09876543"
+    }
+    },
+    
+    {
+    "prompt": "Please provide the balance of 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF in ETH on Chiado.",
+    "completion": {
+    "action": "balance",
+    "token1": "ETH",
+    "chain": "Chiado",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF"
+    }
+    },
+    
+    {
+    "prompt": "What is the balance of 0x1234567890123456789012345678901234567890 in USDT on Gnosis?",
+    "completion": {
+    "action": "balance",
+    "token1": "USDT",
+    "chain": "Gnosis",
+    "address": "0x1234567890123456789012345678901234567890"
+    }
+    },
+    
+    {
+    "prompt": "Check the balance of 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef in wBTC on Taiko.",
+    "completion": {
+    "action": "balance",
+    "token1": "wBTC",
+    "chain": "Taiko",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef"
+    }
+    },
+    
+    {
+    "prompt": "I would like to know the balance of 0x3293Ae42F0bda8C57492d4e99eF96128Ee2a1c0a in DAI on Chiado.",
+    "completion": {
+    "action": "balance",
+    "token1": "DAI",
+    "chain": "Chiado",
+    "address": "0x3293Ae42F0bda8C57492d4e99eF96128Ee2a1c0a"
+    }
+    },
+    {
+    "prompt": "Check the current ETH balance for 0x9876543210ABCDEF09876543210ABCDEF09876543 on Ethereum.",
+    "completion": {
+    "action": "balance",
+    "token1": "ETH",
+    "chain": "Ethereum",
+    "address": "0x9876543210ABCDEF09876543210ABCDEF09876543"
+    }
+    },
+    
+    {
+    "prompt": "What is the balance of USDC for address 0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF on Gnosis?",
+    "completion": {
+    "action": "balance",
+    "token1": "USDC",
+    "chain": "Gnosis",
+    "address": "0xABCDEFABCDEFabcdefabcdefabcdefABCDEFABCDEF"
+    }
+    },
+    
+    {
+    "prompt": "Please provide the balance of UNI for wallet address 0x1234567890123456789012345678901234567890 on Chiado.",
+    "completion": {
+    "action": "balance",
+    "token1": "UNI",
+    "chain": "Chiado",
+    "address": "0x1234567890123456789012345678901234567890"
+    }
+    },
+    
+    {
+    "prompt": "Check the current wBTC balance for 0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef on Taiko.",
+    "completion": {
+    "action": "balance",
+    "token1": "wBTC",
+    "chain": "Taiko",
+    "address": "0xabcdefABCDEFabcdefABCDEFabcdefABCDEFabcdef"
+    }
+    },
+    
+    {
+    "prompt": "What is the balance of DAI in the address 0x3293Ae42F0bda8C57492d4e99eF96128Ee2a1c0a on Chiado?",
+    "completion": {
+    "action": "balance",
+    "token1": "DAI",
+    "chain": "Chiado",
+    "address": "0x3293Ae42F0bda8C57492d4e99eF96128Ee2a1c0a"
+    }
+    }
+    
+    ]
+    
+ 
+    
+    
+    
