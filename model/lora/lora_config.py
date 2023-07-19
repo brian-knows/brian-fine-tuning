@@ -7,8 +7,8 @@ class BrianLoraConfig:
         self.lora_alpha = 32
         self.lora_dropout = 0.05
         self.lora_r = 16
-        #self.model_id = "philschmid/flan-t5-xxl-sharded-fp16"
-        self.model_id = "google/flan-t5-base"
+        self.model_id = "philschmid/flan-t5-xxl-sharded-fp16"
+        # self.model_id = "google/flan-t5-base"
 
     def configure(self):
         model = AutoModelForSeq2SeqLM.from_pretrained(self.model_id, load_in_8bit=False)
