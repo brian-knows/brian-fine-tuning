@@ -80,7 +80,7 @@ The output of the training will be available in the `results` folder on your mac
 In order to execute the code on Bacalhau, you need to run the following command:
 
 ```bash
-bacalhau docker run brianknows/fine-tuning -o results
+bacalhau docker run brianknows/fine-tuning
 ```
 
 To check the status of the job, you can run the following command:
