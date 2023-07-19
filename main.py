@@ -1,3 +1,4 @@
+import numpy as np
 from trl import SFTTrainer
 import torch
 import json
@@ -15,41 +16,51 @@ lora_config = LoraConfig()
 trainer = Trainer()
 load_model = Model()
 
-#todo: unify custom_promots and real_promots in unique dict
-
 #loading data
-unified_json = {}
-for prompt_type in ['approve']:
+unified_json = { "train": [] }
+for prompt_type in ['approve', 'balance', 'borrow', 'bridge', 'swap', 'total_supply', 'transfer']:
     with open(f"./data/custom_prompts/{prompt_type}.json", 'r') as prompts:
         prompts = json.load(prompts)
-        unified_json[prompt_type] = prompt_type
+        unified_json["train"] += prompts
+
+concatenated_data = [f"{item['prompt']} </s> {item['completion']}" for item in unified_json["train"]]
+
 #train, test = dataloader.load_dataset_from_local(path="", split=True, test_size=0.3)
 dataset = dataloader.create_hf_dataset(input_json=unified_json)
 
 #loading tokenizer
 tokenizer = tokenizer.load_tokenizer()
 
-#trainer
-max_seq_length = 512
-
-trainer = SFTTrainer(
-    model=load_model.load_model(),
-    train_dataset=dataset,
-    peft_config=lora_config.configure(),
-    dataset_text_field="text",
-    max_seq_length=max_seq_length,
-    tokenizer=tokenizer,
-    args=trainer.training_arguments(),
+# tokenize dataset
+max_length = 1024
+tokenized_data = tokenizer.batch_encode_plus(
+    concatenated_data,
+    truncation=True,
+    padding='max_length',
+    max_length=max_length,
+    return_tensors='pt',
+    return_token_type_ids=False,
 )
 
-# questo per ottimizzare torch sotto
-for name, module in trainer.model.named_modules():
-    if "norm" in name:
-        module = module.to(torch.float32)
+dataset = dataloader.create_hf_dataset(input_json={
+    "input_ids": tokenized_data["input_ids"],
+    "attention_mask": tokenized_data["attention_mask"],
+    "labels": tokenized_data["input_ids"],  # Since it's a T5-like model, labels are the same as inputs
+})
+
+# Calculate input_lengths and target_lengths from the tokenized dataset
+input_lengths = [len(x) for x in dataset["input_ids"]]
+target_lengths = [len(x) for x in dataset["labels"]]
+
+# Calculate max_source_length and max_target_length
+max_source_length = int(np.percentile(input_lengths, 85))
+max_target_length = int(np.percentile(target_lengths, 90))
+
+#trainer
+trainer_model = trainer.get_trainer_model(tokenizer=tokenizer, model=lora_config.configure(), dataset=unified_json)
 
 #launch job
-trainer.train()
+trainer_model.train()
 
-
-
-
+trainer_model.model.save_pretrained(trainer.output_dir)
+tokenizer.save_pretrained(trainer.output_dir)

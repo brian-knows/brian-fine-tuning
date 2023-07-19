@@ -26,9 +26,7 @@ class DataLoader:
         Takes in input a dictionary
         :return: Hugging Face Dataset object
         """
-
-        dataset = Dataset.from_dict(input_json)
-        return dataset
+        return Dataset.from_dict(input_json, split="train+test")
 
 
 

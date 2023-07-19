@@ -3,7 +3,8 @@ from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 class Tokenizer:
 
     def __init__(self):
-        self.model_id = "google/flan-t5-xxl"
+        #self.model_id = "philschmid/flan-t5-xxl-sharded-fp16"
+        self.model_id = "google/flan-t5-base"
 
     def load_tokenizer(self):
         # Load tokenizer of model
