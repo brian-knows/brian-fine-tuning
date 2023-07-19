@@ -1,4 +1,4 @@
-from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+from transformers import T5Tokenizer
 
 class Tokenizer:
 
@@ -8,7 +8,5 @@ class Tokenizer:
 
     def load_tokenizer(self):
         # Load tokenizer of model
-        tokenizer = AutoTokenizer.from_pretrained(self.model_id, trust_remote_code=True)
-        tokenizer.pad_token = tokenizer.eos_token
-        return tokenizer
+        return T5Tokenizer.from_pretrained("google/flan-t5-base")
 

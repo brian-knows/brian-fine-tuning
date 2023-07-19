@@ -1,5 +1,5 @@
 from transformers import TrainingArguments
-from transformers import DataCollatorForSeq2Seq, Seq2SeqTrainer, Seq2SeqTrainingArguments
+from transformers import DataCollatorForSeq2Seq, Seq2SeqTrainer, Seq2SeqTrainingArguments, T5ForConditionalGeneration
 
 class Trainer:
 
@@ -35,10 +35,10 @@ class Trainer:
             report_to="tensorboard",
         )
         return Seq2SeqTrainer(
-            model=model,
+            model=T5ForConditionalGeneration.from_pretrained("google/flan-t5-base"),
             args=training_args,
-            data_collator=data_collator,
-            train_dataset=dataset["train"],
+            #data_collator=data_collator,
+            train_dataset=dataset,
         )
 
     
